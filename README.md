@@ -1,7 +1,12 @@
 # 81-python-projects
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
 
-## (1) Bagels
+## Table of Contents
+1. [Bagels](##-(1)-Bagels)
+2. [Birthday Paradox](##(2)-Birthday-Paradox)
+
+
+##-(1)-Bagels
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
@@ -13,7 +18,7 @@ digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
 
-## (2) Birthday Paradox
+##-(2)-Birthday Paradox
 
 The Birthday Paradox, also called the
 Birthday Problem, is the surprisingly high
