@@ -43,7 +43,7 @@ Install Python 3 using Homebrew or your fav package manager:
 
 ## Bagels
 
-[test link to code page](http://url.com)
+[test link to code page](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bagels/bagels.py)
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
