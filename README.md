@@ -32,11 +32,11 @@ Install Python 3 using Homebrew or your fav package manager:
      ```
 
 ## Table of Contents
-1. [Bagels](#(1)-Bagels)
-2. [Birthday Paradox](#(2)-Birthday-Paradox)
+1. [Bagels](#Bagels)
+2. [Birthday Paradox](#Birthday-Paradox)
 
 
-##(1)-Bagels
+##Bagels
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
@@ -48,7 +48,7 @@ digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
 
-##(2)-Birthday-Paradox
+##Birthday-Paradox
 
 The Birthday Paradox, also called the
 Birthday Problem, is the surprisingly high
