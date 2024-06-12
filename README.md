@@ -32,8 +32,8 @@ Install Python 3 using Homebrew or your fav package manager:
      ```
 
 ## Table of Contents
-1. [Bagels](##-(1)-Bagels)
-2. [Birthday Paradox](##(2)-Birthday-Paradox)
+1. [Bagels](#-(1)-Bagels)
+2. [Birthday Paradox](#(2)-Birthday-Paradox)
 
 
 ##-(1)-Bagels
