@@ -1,5 +1,35 @@
 # 81-python-projects
+
+## Introduction
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
+
+## Getting Started
+## Installing Python 3 with Homebrew
+
+Install Python 3 using Homebrew or your fav package manager:
+
+1. **Install Homebrew** (if you haven't already):
+
+   - Run the following command to install Homebrew:
+     ```sh
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     ```
+
+2. **Install Python 3**:
+   - Run the following command to install Python 3:
+     ```sh
+     brew install python
+     ```
+
+3. **Verify the Installation**:
+   - After the installation is complete, run the following command to ensure Python 3 is installed correctly:
+     ```sh
+     python3 --version
+     ```
+   - You should see output indicating the version of Python 3 that is installed, such as:
+     ```sh
+     Python 3.x.x
+     ```
 
 ## Table of Contents
 1. [Bagels](##-(1)-Bagels)
