@@ -1,5 +1,10 @@
 # 81-python-projects
 
+**Bold Text**
+*Italic Text*
+
+
+
 ## Introduction
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
 
@@ -37,6 +42,8 @@ Install Python 3 using Homebrew or your fav package manager:
 
 
 ## Bagels
+
+[test link to code page](http://url.com)
 
 In Bagels, a deductive logic game, you
 must guess a secret three-digit number
