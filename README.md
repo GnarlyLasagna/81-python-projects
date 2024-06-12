@@ -109,12 +109,83 @@ uses images drawn with text characters, called
 ASCII art. American Standard Code for Information
 Interchange (ASCII) is a mapping of text characters
 to numeric codes that computers used before Unicode
-replaced it. The playing cards in this program are an
-example of ASCII art:
+replaced it.
 
-```
-___ ___
-|A | |10 |
-| ♣ | | ♦ |
-|__A| |_10|
-```
+## Bouncing DVD Logo
+
+If you are of a certain age, you’ll remember
+those ancient technological devices called
+DVD players. When not playing DVDs, they
+would display a diagonally traveling DVD logo
+that bounced off the edges of the screen. This pro-
+gram simulates this colorful DVD logo by making it
+change direction each time it hits an edge. We’ll also
+keep track of how many times a logo hits a corner of
+the screen. This creates an interesting visual anima-
+tion to look at, especially for the magical moment
+when a logo lines up perfectly with a corner.
+
+You can’t run this program from your integrated development environ-
+ment (IDE) or editor because it uses the bext module. Therefore, it must be
+run from the Command Prompt or Terminal in order to display correctly.
+You can find more information about the bext module at https://pypi.org/
+project/bext/.
+
+## Caeser Cipher
+
+The Caesar cipher is an ancient encryp-
+tion algorithm used by Julius Caesar. It
+encrypts letters by shifting them over by a
+certain number of places in the alphabet. We
+call the length of shift the key. For example, if the
+key is 3, then A becomes D, B becomes E, C becomes
+F, and so on. To decrypt the message, you must shift
+the encrypted letters in the opposite direction. This
+program lets the user encrypt and decrypt messages
+according to this algorithm.
+
+## Caeser Hacker
+
+This program can hack messages encrypted
+with the Caesar cipher from Project 6, even
+if you don’t know the key. There are only 26
+possible keys for the Caesar cipher, so a com-
+puter can easily try all possible decryptions and dis-
+play the results to the user. In cryptography, we call
+this technique a brute-force attack.
+
+## Calendar Maker
+
+This program generates printable text
+files of monthly calendars for the month
+and year you enter. Dates and calendars are
+a tricky topic in programming because there
+are so many different rules for determining the num-
+ber of days in a month, which years are leap years,
+and which day of the week a particular date falls on.
+Fortunately, Python’s datetime module handles these
+details for you. This program focuses on generating
+the multiline string for the monthly calendar page.
+
+## Carrot In A Box
+
+This is a simple and silly bluffing game for
+two human players. Each player has a box.
+One box has a carrot in it, and each player
+wants to have the carrot. The first player looks
+in their box and then tells the second player they
+either do or don’t have the carrot. The second
+
+## Cho-Han
+
+Cho-han is a dice game played in gambling
+houses of feudal Japan. Two six-sided dice
+are rolled in a cup, and gamblers must guess
+if the sum is even (cho) or odd (han). The
+house takes a small cut of all winnings. The simple
+random number generation and basic math used to
+determine odd or even sums make this project espe-
+cially suitable for beginners. More information about
+Cho-han can be found at https://en.wikipedia.org/wiki/
+Cho-han.
+
