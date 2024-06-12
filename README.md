@@ -48,7 +48,7 @@ digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
 
-##Birthday-Paradox
+##Birthday Paradox
 
 The Birthday Paradox, also called the
 Birthday Problem, is the surprisingly high
