@@ -9,7 +9,6 @@
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
 
 ## Getting Started
-## Installing Python 3 with Homebrew
 
 Install Python 3 using Homebrew or your fav package manager:
 
@@ -35,6 +34,22 @@ Install Python 3 using Homebrew or your fav package manager:
      ```sh
      Python 3.x.x
      ```
+
+4. **Git Clone**
+    - Use Git Clone to get the directory of projects
+    ```sh
+    git clone git@github.com:GnarlyLasagna/81-python-projects.git
+    ```
+
+5. **Cd in and use script**
+    -Cd into the directory of the desired project:
+    ```sh
+    cd bagels
+    ```
+
+    ```sh
+    python3 bagels.py
+    ```
 
 ## Table of Contents
 1. [Bagels](#Bagels)
