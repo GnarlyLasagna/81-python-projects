@@ -378,4 +378,103 @@ DRAW. But careful, though. Press it before
 DRAW appears, and you lose. Are you the fast-
 est keyboard in the west?
 
+## Fibonacci
 
+The Fibonacci sequence is a famous math-
+ematical pattern credited to Italian math-
+ematician Fibonacci in the 13th century
+(though others had discovered it even earlier).
+The sequence begins with 0 and 1, and the next num-
+ber is always the sum of the previous two numbers.
+The sequence continues forever:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987 . . .
+The Fibonacci sequence has applications in music composition, stock
+market prediction, the pattern of florets in the head of sunflowers, and
+many other areas. This program lets you calculate the sequence as high as
+you are willing to go. More information about the Fibonacci sequence can
+be found at https://en.wikipedia.org/wiki/Fibonacci_number.
+
+## Fish Tank
+
+Watch your own virtual fish in a virtual
+fish tank, complete with air bubblers and
+kelp plants. Each time you run the program,
+it randomly generates the fish using different
+fish types and colors. Take a break and enjoy the calm
+serenity of this software aquarium, or try programming
+in some virtual sharks to terrorize its inhabitants! You
+can’t run this program from your IDE or editor. This
+program uses the bext module and must be run from
+the Command Prompt or Terminal in order to display
+correctly. More information about the bext module can
+be found at https://pypi.org/project/bext/.
+
+## Flooder
+
+Flooder is a colorful game where a player
+tries to fill the board with a single color
+by changing the color of the tile in the
+upper-left corner. This new color spreads to
+all neighboring tiles that matched the original color.
+It’s similar to the Flood It mobile game. This program
+also has a colorblind mode, which uses shapes instead
+of flat colored tiles. It relies on the recursive flood
+fill algorithm to paint the board and works similarly
+to the “paint bucket” or “fill” tool in many painting
+applications.
+
+## Forest Fire Sim
+
+This simulation shows a forest whose trees
+are constantly growing and then being
+burned down. On each step of the simula-
+tion, there is a 1 percent chance that a blank
+space grows into a tree and a 1 percent chance that a
+tree is struck by lightning and burns. Fires will spread
+to adjacent trees, so a densely packed forest is more
+likely to suffer a larger fire than a sparsely packed
+one. This simulation was inspired by Nicky Case’s
+Emoji Sim at http://ncase.me/simulating/model/.
+
+## Four In A Row
+
+In this classic tile-dropping board game
+for two players, you must try to get four of
+your tiles in a row horizontally, vertically,
+or diagonally, while preventing your oppo-
+nent from doing the same. This program is similar
+to Connect Four.
+
+## Guess The Number
+
+Guess the Number is a classic game for
+beginners to practice basic programming
+techniques. In this game, the computer
+thinks of a random number between 1 and 100.
+The player has 10 chances to guess the number. After
+each guess, the computer tells the player if it was too
+high or too low.
+
+## Gullible
+
+In this short and simple program, you can
+learn the secret and subtle art of keeping
+a gullible person busy for hours. I won’t
+spoil the punch line here. Copy the code and
+run it for yourself. This project is great for beginners,
+whether you’re smart or . . . not so smart.
+
+## Hacking Minigame
+
+In this game, the player must hack a com-
+puter by guessing a seven-letter word used
+as the secret password. The computer’s mem-
+ory banks display the possible words, and the
+player is given hints as to how close each guess was.
+For example, if the secret password is MONITOR but
+the player guessed CONTAIN, they are given the hint
+that two out of seven letters were correct, because both
+MONITOR and CONTAIN have the letter O and N as
+their second and third letter. This game is similar to
+Project 1, “Bagels,” and the hacking minigame in the
+Fallout series of video games.
