@@ -166,6 +166,8 @@ likely outcomes, Monte Carlo experiments.
 
 ## Bitmap Message
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bitmapMessage/bitmapMessage.py)
+
 This program uses a multiline string as a
 bitmap, a 2D image with only two possible
 colors for each pixel, to determine how it
