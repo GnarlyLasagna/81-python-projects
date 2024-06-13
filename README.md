@@ -117,20 +117,21 @@ Install Python 3 using Homebrew or your fav package manager:
 65. [Shining Carpet](#shining-carpet)
 66. [Simple Substitution Cipher](#simple-substitution-cipher)
 67. [Sine Message](#sine-message)
-68. [Sliding Tile Puzzle](#sliding-tile-puzzle)
-69.
-70.
-71.
-72.
-73.
-74.
-75.
-76.
-77.
-78.
-79.
-80.
-81.
+68. [sliding tile puzzle](#sliding-tile-puzzle)
+69. [snail race](#snail-race)
+70. [Soroban Japanese Abacus](#soroban-japanese-abacus)
+71. [Sound Mimic](#sound-mimic)
+72. [spongecase](#spongecase)
+73. [sudoku puzzle](#sudoku-puzzle)
+74. [text-to-speech talker](#text-to-speech-talker)
+75. [Three-card monte](#three-card-monte)
+76. [tic-tac-toe](#tic-tac-toe)
+77. [Tower of Hanoi](#tower-of-hanoi)
+78. [Trick Questions](#trick-questions)
+79. [Twenty Fourty-Eight](#twenty-fourty-eight)
+80. [Vigenere Cipher](#vigenere-cipher)
+81. [Water Bucket Puzzle](#water-bucket-puzzle)
+
 
 ## Bagels
 
@@ -1257,7 +1258,7 @@ Copying the code from this book will spoil the fun, since you’ll see the
 answers, so you might want to download and play this game from https://
 inventwithpython.com/trickquestions.py before looking at the source code.
 
-## Twent Fourty-Eight
+## Twenty Fourty-Eight
 
 Gabriele Cirulli, a web developer, invented
 the game 2048 in one weekend. It was
