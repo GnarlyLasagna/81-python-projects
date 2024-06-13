@@ -53,6 +53,84 @@ Install Python 3 using Homebrew or your fav package manager:
 1. [Bagels](#Bagels)
 2. [Birthday Paradox](#Birthday-Paradox)
 3. [Bitmap Message](#Bitmap-Message)
+4. [Blackjack](#blackjack)
+5. [Bouncing DVD Logo](#bouncing-dvd-logo)
+6. [Caeser Cipher](#caeser-cipher)
+7. [Caeser Hacker](#caeser-hacker)
+8. [Calendar Maker](#calendar-maker)
+9. [Carrot In A Box](#carrot-in-a-box)
+10. [Cho-Han](#cho-han)
+11. [Clickbait Headline Generator](#clickbait-headline-generator)
+12. [Collatz Sequence](#collatz-sequence)
+13. [Conways Game Of Life](#conways-game-of-life)
+14. [Countdown](#countdown)
+15. [Deep Cave](#deep-cave)
+16. [Diamonds](#diamonds)
+17. [Dice Math](#dice-math)
+18. [Dice Roller](#dice-roller)
+19. [Digital Clock](#digital-clock)
+20. [Digital Stream](#digital-stream)
+21. [DNA Visualization](#dna-visualization)
+22. [Ducklings](#ducklings)
+23. [Etching Drawer](#etching-drawer)
+24. [Factor Finder](#factor-finder)
+25. [First Draw](#first-draw)
+26. [Fibonacci](#fibonacci)
+27. [Fish Tank](#fish-tank)
+28. [Flooder](#flooder)
+29. [Forest Fire Sim](#forest-fire-sim)
+30. [Four In A Row](#four-in-a-row)
+31. [Guess The Number](#guess-the-number)
+32. [Gullible](#gullible)
+33. [Hacking Minigame](#hacking-minigame)
+34. [Hangman And Guillotine](#hangman-and-guillotine)
+35. [Hex Grid](#hex-grid)
+36. [Hourglass](#hourglass)
+37. [Hungry Robots](#hungry-robots)
+38. [J'accuse!](#jaccuse)
+39. [Langton's Ant](#langtons-ant)
+40. [Leetspeak](#leetspeak)
+41. [Lucky Stars](#lucky-stars)
+42. [Magic Fortune Ball](#magic-fortune-ball)
+43. [Mancala](#mancala)
+44. [Maze Runner 2D](#maze-runner-2d)
+45. [Maze Runner 3D](#maze-runner-3d)
+46. [Million Dice Roll Statistics Simulator](#million-dice-roll-statistics-simulator)
+47. [Mondrian Art Generator](#mondrian-art-generator)
+48. [Monty Hall Problem](#monty-hall-problem)
+49. [Multiplication Table](#multiplication-table)
+50. [Ninety-Nine Bottles](#ninety-nine-bottles)
+51. [Ninety-Nniine Boottels](#ninety-nniine-boottels)
+52. [Numeral System Counters](#numeral-system-counters)
+53. [Periodic Table Of The Elements](#periodic-table-of-the-elements)
+54. [Pig Latin](#pig-latin)
+55. [Powerball Lottery](#powerball-lottery)
+56. [Prime Numbers](#prime-numbers)
+57. [Progress Bar](#progress-bar)
+58. [Rainbow](#rainbow)
+59. [Rock Paper Scissors](#rock-paper-scissors)
+60. [Rock Paper Scissors (Always Win Version)](#rock-paper-scissors-always-win-version)
+61. [Rot13 Cipher](#rot13-cipher)
+62. [Rotating Cube](#rotating-cube)
+63. [Royal Game of Ur](#royal-game-of-ur)
+64. [Seven-Segment Display Module](#seven-segment-display-module)
+65. [Shining Carpet](#shining-carpet)
+66. [Simple Substitution Cipher](#simple-substitution-cipher)
+67. [Sine Message](#sine-message)
+68. [Sliding Tile Puzzle](#sliding-tile-puzzle)
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
 
 ## Bagels
 
