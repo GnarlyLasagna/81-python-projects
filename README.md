@@ -149,6 +149,8 @@ secret number.
 
 ## Birthday Paradox
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/birthdayParadox/birthdayParadox.py)
+
 The Birthday Paradox, also called the
 Birthday Problem, is the surprisingly high
 probability that two people will have the
