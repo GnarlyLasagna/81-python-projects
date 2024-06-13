@@ -228,7 +228,7 @@ simulation.
 • Dead cells with exactly three neighbors become alive in the next step of
 the simulation.
 • Any other cell dies or stays dead in the next step of the simulation.
-60 Project #13
+
 The living or dead state of the cells in the next step of the simula-
 tion depends entirely on their current state. The cells don’t “remember”
 any older states. There is a large body of research regarding the patterns
@@ -733,7 +733,6 @@ ple, it provides a useful demonstration of
 nested loops.
 
 ## Ninety-Nine Bottles
--50
 
 “Ninety-Nine Bottles” is a folk song of
 undetermined origin known for its length
@@ -750,3 +749,487 @@ Luckily for us, computers are excellent at performing repetitive
 tasks, and this program reproduces all of the lyrics programmatically.
 An extended version of this program is in Project 51, “niNety-nniinE
 BoOttels.”
+
+## Ninety-Nniine Boottels
+
+In this version of the song “Ninety-Nine
+Bottles,” the program introduces small
+imperfections in each stanza by either
+removing a letter, swapping the casing of a
+letter, transposing two letters, or doubling a letter.
+As the song continues to play, these mutations add up, resulting in
+a very silly song. It’s a good idea to try Project 50, “Ninety-Nine Bottles,”
+before attempting this one.
+
+## Numeral System Counters
+
+We’re used to counting in the decimal
+numeral system, which uses 10 digits: 0
+through 9. This system likely developed
+because humans counted on their fingers, and
+most people have 10 fingers. But other number sys-
+tems exist. Computers make use of binary, a numeral
+system with only two digits, 0 and 1. Programmers
+also sometimes use hexadecimal, which is a base-16
+numeral system that uses the digits 0 to 9 but also
+extends into the letters A to F.
+We can represent any number in any numeral system, and this program
+displays a range of numbers in decimal, binary, and hexadecimal.
+
+## Periodic Table Of The Elements
+
+The periodic table of the elements orga-
+nizes all known chemical elements into
+a single table. This program presents this
+table and lets the player access additional
+information about each element, such as its atomic
+number, symbol, melting point, and so on. I com-
+piled this information from Wikipedia and stored it
+in a file called periodictable.csv that you can download
+from https://inventwithpython.com/periodictable.csv.
+
+## Pig Latin
+
+Pig Latin is a word game that transforms
+English words into a parody of Latin. In
+Pig Latin, if a word begins with a consonant,
+the speaker removes this letter and puts it at
+the end, followed by “ay.” For example, “pig” becomes
+“igpay” and “latin” becomes “atinlay.” Otherwise,
+if the word begins with a vowel, the speaker simply
+adds “yay” to the end of it. For example, “elephant”
+becomes “elephantyay” and “umbrella” becomes
+“umbrellayay.”
+
+## Powerball Lottery
+
+The Powerball Lottery is an exciting way to
+lose small amounts of money. If you pur-
+chase a $2 ticket, you can pick six numbers:
+five drawn from 1 to 69, and a sixth “Powerball”
+number drawn from 1 to 26. The order of the num-
+bers doesn’t matter. If the lottery selects your six num-
+bers, you win $1.586 billion dollars! Except you won’t
+win, because your odds are 1 in 292,201,338. But if you
+spent $200 on 100 tickets, your odds would be . . . 1 in 2,922,013. You won’t
+win that either, but at least you’ll lose 100 times as much money. The more
+you like losing money, the more fun the lottery is!
+To help you visualize how often you won’t win the lottery, this program
+simulates up to one million Powerball drawings and then compares them
+with the numbers you picked. Now you can have all the excitement of losing
+the lottery without spending money.
+
+Fun fact: every set of six numbers is just as likely to win as any other. So
+the next time you want to buy a lottery ticket, pick the numbers 1, 2, 3, 4,
+5, and 6. Those numbers are just as likely to come up as a more complex set.
+
+## Prime Numbers
+
+A prime number is a number that is evenly
+divisible only by one and itself. Prime num-
+bers have a variety of practical applications,
+but no algorithm can predict them; we must
+calculate them one at a time. However, we do know
+that there is an infinite number of prime numbers to
+be discovered.
+This program finds prime numbers through brute-force calculation.
+Its code is similar to Project 24, “Factor Finder.” (Another way to describe
+a prime number is that one and the number itself are its only factors.) You
+can find out more about prime numbers from https://en.wikipedia.org/wiki/
+Prime_number.
+
+## Progress Bar
+
+A progress bar is a visual element that shows
+how much of a task has been completed.
+Progress bars are often used alongside down-
+loading files or software installations. This proj-
+ect creates a getProgressBar() function that returns a
+progress bar string based on the arguments passed to
+it. It simulates a downloading file, but you can reuse
+the progress bar code in your own projects.
+
+## Rainbow
+
+Rainbow is a simple program that shows a
+colorful rainbow traveling back and forth
+across the screen. The program makes use
+of the fact that when new lines of text appear,
+the existing text scrolls up, causing it to look like it’s
+moving. This program is good for beginners, and it’s
+similar to Project 15, “Deep Cave.”
+
+## Rock Paper Scissors
+
+In this version of the two-player hand game
+also known as Rochambeau or jan-ken-pon,
+the player faces off against the computer.
+You can pick either rock, paper, or scissors.
+Rock beats scissors, scissors beats paper, and paper
+beats rock. This program adds some brief pauses for
+suspense.
+For a variation of this game, see Project 60, “Rock Paper Scissors
+(Always-Win Version).”
+
+## Rock Paper Scissors (Always Win Version)
+
+This variant of Rock Paper Scissors is iden-
+tical to Project 59, “Rock Paper Scissors,”
+except the player will always win. The code
+selecting the computer’s move is set so that it
+always chooses the losing move. You can offer this
+game to your friends, who may be excited when they
+win . . . at first. See how long it takes before they catch
+on to the fact that the game is rigged in their favor.
+
+## Rot13 Cipher
+
+The ROT13 cipher, one of the simplest
+encryption algorithms, stands for “rotate
+13 spaces.” The cypher represents the let-
+ters A to Z as the numbers 0 to 25 in such a way
+that the encrypted letter is 13 spaces from the plain-
+text letter: A becomes N, B becomes O, and so on.
+The encryption process is identical to the decryption
+process, making it trivial to program. However, the
+encryption is also trivial to break. Because of this,
+you’ll most often find ROT13 used to conceal non-sensitive information,
+such as spoilers or trivia answers, so it’s not read unintentionally. More
+information about the ROT13 cipher can be found at https://en.wikipedia.org/
+wiki/ROT13. If you’d like to learn about ciphers and code breaking more
+generally, you can read my book Cracking Codes with Python (No Starch Press,
+2018; https://nostarch.com/crackingcodes/).
+
+## Rotating Cube
+
+This project features an animation of a
+3D cube rotating using trigonometric func-
+tions. You can adapt the 3D point rotation
+math and the line() function in your own ani-
+mation programs.
+Although the block text characters we’ll use to draw the cube don’t
+look like thin, straight lines, this kind of drawing is called a wireframe model
+because it renders only the edges of an object’s surfaces. Figure 62-1 shows
+the wireframe model for a cube and an icosphere, a rough sphere made of
+triangles.
+
+## Royal Game of Ur
+
+The Royal Game of Ur is a 5,000-year-old
+game from Mesopotamia. Archeologists
+rediscovered the game in the Royal Cemetery
+at Ur, in modern-day southern Iraq, during exca-
+vations between 1922 and 1934. The rules were recon-
+structed from the game board (shown in Figure 63-1)
+and a Babylonian clay tablet, and they’re similar to
+Parcheesi. You’ll need both luck and skill to win.
+
+Two players each begin with seven tokens in their home, and the first
+player to move all seven to the goal is the winner. Players take turns throw-
+ing four dice. These dice are four-pointed pyramid shapes called tetrahe-
+drons. Each die has two marked points, giving an even chance that the dice
+come up marked or unmarked. Instead of dice, our game uses coins whose
+heads act as the marked point. The player can move a token one space for
+each marked point that comes up. This means they can move a single token
+between zero and four spaces, though they’re most likely to roll two spaces.
+The tokens travel along the path indicated in Figure 63-2. Only one
+token may exist on a space at a time. If a token lands on an opponent’s token
+while in the shared middle path, the opponent’s token is sent back home. If
+a token lands on the middle flower square, it is safe from being landed on.
+If a token lands on any of the other four flower tiles, the player gets to roll
+again. Our game will represent the tokens with the letters X and O.
+
+## Seven-Segment Display Module
+
+A seven-segment display is a type of LCD
+component used to display numbers in
+pocket calculators, microwave ovens, and
+other small electronic devices. Through differ-
+ent combinations of seven line-shaped segments in an
+LCD, a seven-segment display can represent the digits
+0 through 9. They look like this:
+```
+__ __ __ __ __ __ __ __
+| | | __| __| |__| |__ |__ | |__| |__|
+|__| | |__ __| | __| |__| | |__| __|
+```
+The benefit of this program is that other programs can import it as a
+module. Project 14, “Countdown,” and Project 19, “Digital Clock,” import
+the sevseg.py file so they can use its getSevSegStr() function. You can find
+more information about seven-segment displays and other variations at
+https://en.wikipedia.org/wiki/Seven-segment_display.
+
+## Shining Carpet
+
+The Shining, a 1980 psychological horror
+film directed by Stanley Kubrick, takes
+place at the haunted Overlook Hotel. The
+hotel carpet’s hexagonal design became an
+iconic part of this famous movie. The carpet features
+alternating and interlocking hexagons whose mes-
+merizing effect is well-suited for such an unnerving
+film. The short program in this project, similar to
+Project 35, “Hex Grid,” prints this repetitive pattern
+on the screen.
+Note that this program uses raw strings, which prefix the opening
+quote with a lowercase r, so that the backslashes in the string aren’t inter-
+preted as escape characters.
+
+## Simple Substitution Cipher
+
+The Simple Substitution Cipher substitutes
+one letter for another. Since there are 26
+possible substitutions for the letter A, 25 pos-
+sible substitutions for B, 24 for C, and so on,
+the total number of possible keys is 26 × 25 × 24 × 23 ×
+. . . × 1, or 403,291,461,126,605,635,584,000,000 keys!
+That’s far too many keys for even a supercomputer
+to brute force, so the code-breaking method used
+in Project 7, “Caesar Hacker,” can’t be used against
+the simple cipher. Unfortunately, devious attackers
+can take advantage of known weakness to break the code. If you’d like
+to learn more about ciphers and code breaking, you can read my book
+Cracking Codes with Python (No Starch Press, 2018; https://nostarch.com/
+crackingcodes/).
+
+## Sine Message
+
+This program displays a message of the
+user’s choice in a wavy pattern as the text
+scrolls up. It accomplishes this effect with
+math.sin(), which implements the trigonomet-
+ric sine wave function. But even if you don’t under-
+stand the math, this program is rather short and
+easy to copy.
+
+## Sliding Tile Puzzle
+
+This classic puzzle relies on a 4 × 4 board
+with 15 numbered tiles and one free space.
+The objective is to slide the tiles until the
+numbers are in the correct order, going left to
+right and top to bottom. Tiles can only slide; you’re
+not allowed to directly pick them up and rearrange
+them. Some versions of this puzzle toy feature scram-
+bled images that form a complete picture once solved.
+More information about sliding tile puzzles can be found at https://
+en.wikipedia.org/wiki/Sliding_puzzle.
+
+## Snail Race
+
+You won’t be able to handle the fast-paced
+excitement of these racing . . . snails. But
+what they lack in speed they make up for in
+ASCII-art cuteness. Each snail (represented by
+an @ character for the shell and v for the two eyestalks)
+moves slowly but surely toward the finish line. Up to
+eight snails, each with a custom name, can race each
+other, leaving a slime trail in their wake. This program
+is good for beginners.
+
+## Soroban Japanese Abacus
+
+An abacus, also called a counting frame, is a
+calculating tool used in many cultures long
+before electronic calculators were invented.
+Figure 70-1 shows the Japanese form of the aba-
+cus, called a soroban. Each wire represents a place in a
+positional numeral system, and the beads on the wire
+represent the digit at that place. For example, a soroban
+with two beads moved over on the rightmost wire and
+three beads moved over on the second-to-rightmost wire
+would represent the number 32. This program simulates
+a soroban. (The irony of using a computer to simulate a
+pre-computer computing tool is not lost on me.)
+
+Each column in the soroban represents a different digit. The rightmost
+column is the ones place, the column to its left is the tens place, the column
+to the left of that is the hundreds place, and so on. The Q, W, E, R, T, Y,
+U, I, O, and P keys along the top of your keyboard can increase the digit at
+their respective positions, while the A, S, D, F, G, H, J, K, L, and ; keys will
+decrease them. The beads on the virtual soroban will slide to reflect the
+current number. You can also enter numbers directly.
+The four beads below the horizontal divider are “earth” beads, and lift-
+ing them up against the divider counts as 1 for that digit. The bead above
+the horizontal divider is a “heaven” bead, and pulling it down against the
+divider counts as 5 for that digit, so pulling down one heaven bead and
+pulling up three earth beads in the tens column represents the number
+80. More information about abacuses and how to use them can be found at
+https://en.wikipedia.org/wiki/Abacus.
+
+## Sound Mimic
+
+Similar to the Simon electronic toy, this
+memorization game uses the third-party
+playsound module to play four different
+sounds, which correspond to the A, S, D, and
+F keys on the keyboard. As you successfully repeat the
+pattern the game gives you, the patterns get longer
+and longer. How many sounds can you hold in your
+short-term memory?
+If you look at the code, you’ll see that the playsound.playsound() function
+is passed the filename of the sound to play. You can download the sound
+files from these URLs:
+https://inventwithpython.com/soundA.wav
+https://inventwithpython.com/soundS.wav
+https://inventwithpython.com/soundD.wav
+https://inventwithpython.com/soundF.wav
+
+Place these files in the same folder as soundmimic.py before running the
+program. More information about the playsound module can be found at
+https://pypi.org/project/playsound/. Users on macOS must also install the pyobjc
+module from https://pypi.org/project/pyobjc/ for playsound to work.
+
+## Spongecase
+
+You’ve probably seen the “Mocking
+SpongeBob” meme: a picture of SpongeBob
+SquarePants, with a caption whose text alter-
+nates between upper- and lowercase letters to
+indicate sarcasm, like this: uSiNg SpOnGeBoB MeMeS
+dOeS NoT mAkE YoU wItTy. For some randomness,
+the text sometimes doesn’t alternate capitalization.
+This short program uses the upper() and lower() string methods to
+convert your message into “spongecase.” The program is also set up so that
+other programs can import it as a module with import spongecase and then
+call the spongecase.englishToSpongecase() function.
+
+## Sudoku Puzzle
+
+Sudoku is a popular puzzle game in news-
+papers and mobile apps. The Sudoku board
+is a 9 × 9 grid in which the player must place
+the digits 1 to 9 once, and only once, in each
+row, column, and 3 × 3 subgrid. The game begins
+with a few spaces already filled in with digits, called
+givens. A well-formed Sudoku puzzle will have only
+one possible valid solution.
+
+## Text-To-Speech Talker
+
+This program demonstrates the use of the
+pyttsx3 third-party module. Any message
+you enter will be spoken out loud by your
+operating system’s text-to-speech capabilities.
+Although computer-generated speech is an incred-
+ibly complex branch of computer science, the pyttsx3
+module provides an easy interface for it, making this
+small program suitable for beginners. Once you’ve
+learned how to use the module, you can add gener-
+ated speech to your own programs.
+More information about the pyttsx3 module can be found at https://
+pypi.org/project/pyttsx3/.
+
+## Three-Card Monte
+
+Three-card monte is a common scam
+played on gullible tourists and other easy
+marks. Three playing cards, one of which is
+the “red lady” Queen of Hearts, are put face-
+down on a cardboard box. The dealer quickly rear-
+ranges the cards and then asks the mark to pick the
+Queen of Hearts. But the dealer can use all sorts of
+tricks to hide the card or otherwise cheat, guarantee-
+ing that the victim never wins. It’s also common for
+the dealer to have shills in the crowd who secretly work with the dealer but
+pretend to win the game (to make the victim think they too could win)
+or purposefully lose badly (to make the victim think they could do much
+better).
+This program shows the three cards and then quickly describes a series
+of swaps. At the end, it clears the screen, and the player must pick a card.
+
+Can you keep up with the “red lady”? For the authentic three-card monte
+experience, you can enable the cheat feature, which causes the player to
+always lose, even if they select the correct card.
+
+## Tic-Tac-Toe
+
+Tic-tac-toe is a classic pencil-and-paper
+game played on a 3 × 3 grid. Players take
+turns placing their X or O marks, trying to
+get three in a row. Most games of tic-tac-toe
+end in a tie, but it is possible to outsmart your oppo-
+nent if they’re not careful.
+
+## Tower Of Hanoi
+
+The Tower of Hanoi is a stack-moving puz-
+zle game that features three poles on which
+you can stack various-sized disks. The object
+of the game is to move one tower of disks to
+another pole. However, only one disk can be moved
+at a time, and larger disks cannot be placed on top of
+smaller ones. Figuring out a certain pattern will help
+you solve this puzzle. Can you discover it? (Hint: Try
+setting the TOTAL_DISKS variable to 3 or 4 to solve an
+easier version first.)
+
+## Trick Questions
+
+What does a yellow stone thrown into a blue
+pond become? Do they have a 4th of July in
+England? How can a doctor go 30 days with-
+out sleep? Whatever you think the answers to
+these trick questions are, you’re probably wrong. The
+54 questions in this program have been specifically
+crafted so that their answers are simple, obvious, and
+misleading. Finding the true answer will require some
+cleverness.
+Copying the code from this book will spoil the fun, since you’ll see the
+answers, so you might want to download and play this game from https://
+inventwithpython.com/trickquestions.py before looking at the source code.
+
+## Twent Fourty-Eight
+
+Gabriele Cirulli, a web developer, invented
+the game 2048 in one weekend. It was
+inspired by Veewo Studios’ 1024 game,
+which in turn was inspired by Threes!, a game
+by the development team Sirvo. In 2048, you must
+merge numbers on a 4 × 4 board to clear them from
+the screen. Two 2s merge into a 4, two 4s merge into
+an 8, and so on. The game adds a new 2 to the board
+on each merging. The objective is to reach 2048
+before the entire board fills up.
+
+## Vigenere Cipher
+
+The Vigenère cipher, misattributed to 19th-
+century cryptographer Blaise de Vigenère
+(others had independently invented it ear-
+lier), was impossible to crack for hundreds of
+years. It is essentially the Caesar cipher, except it makes
+use of a multipart key. The so-called Vigenère key is a
+word, or even a random series of letters. Each letter
+represents a number by which to shift the letter in the
+message: A represents shifting a letter in the message
+by 0, B represents 1, C represents 2, and so on.
+For example, if a Vigenère key is the word “CAT,” the C represents a
+shift of 2, the A represents 0, and the T represents 19. The first letter of the
+message gets shifted by 2, the second letter by 0, and the third letter by 19.
+For the fourth letter, we repeat the key of 2.
+This use of multiple Caesar cipher keys is what gives the Vigenère cipher
+its strength. The possible number of combinations is too big to brute force.
+
+At the same time, the Vigenère cipher doesn’t suffer from the frequency
+analysis weakness that can crack the simple substitution cipher. For centu-
+ries, the Vigenère cipher represented the state of the art in cryptography.
+You’ll notice many similarities between the code for the Vigenère and
+Caesar cipher programs. More info about the Vigenère cipher can be found
+at https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher. If you’d like to learn
+more about ciphers and code breaking, you can read my book Cracking
+Codes with Python (No Starch Press, 2018; https://nostarch.com/crackingcodes/).
+
+## Water Bucket Puzzle
+
+In this solitaire puzzle game, you must use
+three buckets (three-liter, five-liter, and
+eight-liter buckets) to collect exactly four
+liters of water in one of the buckets. Buckets
+can only be emptied, completely filled, or poured
+into another bucket. For example, you can fill the
+five-liter bucket and then pour its contents into the
+three-liter bucket, leaving you with a full three-liter
+bucket and two liters of water in the five-liter bucket.
+With some effort, you should be able to solve the puzzle. But can you
+figure out how to solve it with the minimal number of moves?
