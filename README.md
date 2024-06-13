@@ -478,3 +478,274 @@ MONITOR and CONTAIN have the letter O and N as
 their second and third letter. This game is similar to
 Project 1, “Bagels,” and the hacking minigame in the
 Fallout series of video games.
+
+## Hangman And Guillotine
+
+This classic word game has the player guess
+the letters to a secret word. For each incor-
+rect letter, another part of the hangman is
+drawn. Try to guess the complete word before
+the hangman completes. The secret words in this ver-
+sion are all animals like RABBIT and PIGEON, but
+you can replace these with your own set of words.
+
+## Hex Grid
+
+This short program produces a tessel-
+lated image of a hexagonal grid, similar to
+chicken wire. It shows that you don’t need a
+lot of code to make something interesting. A
+slightly more complicated variation of this program is
+Project 65, “Shining Carpet.”
+Note that this program uses raw strings, which prefix the opening
+quote with a lowercase r so that the backslashes in the string aren’t inter-
+preted as escape characters.
+
+## Hourglass
+
+This visualization program has a rough
+physics engine that simulates sand falling
+through the small aperture of an hourglass.
+The sand piles up in the bottom half of the
+hourglass; then the hourglass is turned over so the
+process repeats.
+
+## Hungry Robots
+
+You are trapped in a maze with hungry
+robots! You don’t know why robots need
+to eat, but you don’t want to find out. The
+robots are badly programmed and will move
+directly toward you, even if blocked by walls. You must
+trick the robots into crashing into each other (or dead
+robots) without being caught.
+You have a personal teleporter device that can send you to a random
+new place, but it only has enough battery for two trips. Also, you and the
+robots can slip through corners!
+
+## J'accuse!
+
+You are the world-famous detective Mathilde
+Camus. Zophie the cat has gone missing,
+and you must sift through the clues. Suspects
+either always tell lies or always tell the truth.
+Will you find Zophie the cat in time and accuse the
+guilty party?
+In this game, you take a taxi to different locations around the city. At
+each location is a suspect and an item. You can ask suspects about other
+suspects and items, compare their answers with your own exploration notes,
+and determine if they are lying or telling the truth. Some will know who has
+catnapped Zophie (or where she is, or what item is found at the location of
+the kidnapper), but you must determine if you can believe them. You have
+five minutes to find the criminal but will lose if you make three wrong accusa-
+tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game.
+
+## Langton's Ant
+
+Langton’s Ant is a cellular automata simula-
+tion on a two-dimensional grid, similar to
+Project 13, “Conway’s Game of Life.” In the
+simulation, an “ant” begins on a square that is
+one of two colors. If the space is the first color, the ant
+switches it to the second color, turns 90 degrees to the
+right, and moves forward one space. If the space is the
+second color, the ant switches it to the first color, turns
+90 degrees to the left, and moves forward one space.
+Despite the very simple set of rules, the simulation displays complex emer-
+gent behavior. Simulations can feature multiple ants in the same space, caus-
+ing interesting interactions when they cross paths with each other. Langton’s
+Ant was invented by computer scientist Chris Langton in 1986. More infor-
+mation about Langton’s Ant can be found at https://en.wikipedia.org/wiki/
+Langton%27s_ant.
+
+## Leetspeak
+
+There’s no better way to demonstrate your
+mad hacker skills than by replacing let-
+ters in your text with numbers: m4d h4x0r
+5k1llz!!! This word program automatically con-
+verts plain English into leetspeak, the coolest way to
+talk online. Or at least it was in 1993.
+It takes a while to get used to, but with some practice, you’ll eventu-
+ally be able to read leetspeak fluently. For example, 1t +@]<3s 4 w|-|1le +o
+g37 |_|s3|) 70, b|_|+ y0u (an 3\/3nt|_|/-\lly r3a|) l33t$peak phl|_|3n+ly.
+Leetspeak may be hard to read at first, but the program itself is simple
+and good for beginners. More information about leetspeak can be found
+at https://en.wikipedia.org/wiki/Leet.
+
+## Lucky Stars
+
+In this push-your-luck game, you roll dice
+to collect stars. The more you roll, the more
+stars you can get, but if you get three skulls
+you lose everything! This quick multiplayer
+game can support as many players as you want, mak-
+ing it ideal for parties.
+On your turn, you pull three random dice from the dice cup and roll
+them. You can roll Stars, Skulls, and Question Marks. If you end your
+turn, you get one point per Star. If you choose to roll again, you keep the
+Question Marks and pull new dice to replace the Stars and Skulls. If you
+collect three Skulls, you lose all your Stars and end your turn.
+When a player gets 13 points, everyone else gets one more turn before
+the game ends. Whoever has the most points wins.
+There are six gold dice, four silver dice, and three bronze dice in the
+cup. Gold dice have more Stars, bronze dice have more Skulls, and silver
+is even.
+
+## Magic Fortune Ball
+
+The Magic Fortune Ball can predict the
+future and answer your yes/no questions
+with 100 percent accuracy using the power
+of Python’s random number module. This pro-
+gram is similar to a Magic 8 Ball toy, except you don’t
+have to shake it. It also features a function for slowly
+printing text strings with spaces in between each char-
+acter, giving the messages a spooky, mysterious effect.
+Most of the code is dedicated to setting the eerie atmosphere. The
+program itself simply selects a message to display in response to a random
+number.
+
+## Mancala
+
+The board game Mancala is at least 2,000
+years old, making it almost as old as Project
+63, “Royal Game of Ur.” It is a “seed-sowing”
+game in which two players select pockets of
+seeds to spread across the other pockets on the board
+while trying to collect as many in their store as possi-
+ble. There are several variants of this game across dif-
+ferent cultures. The name comes from the Arab word
+naqala, meaning “to move.”
+To play, grab the seeds from a pit on your side of the board and place one
+in each subsequent pit, going counterclockwise and skipping your opponent’s
+store. If your last seed lands in an empty pit of yours, move the opposite pit’s
+seeds into that pit. If the last placed seed is in your store, you get a free turn.
+Mancala 207
+The game ends when all of one player’s pits are empty. The other player
+claims the remaining seeds for their store, and the winner is the one with
+the most seeds. More information about Mancala and its variants can be
+found at https://en.wikipedia.org/wiki/Mancala.
+
+## Maze Runner 2D
+
+This two-dimensional maze runner shows
+the player a top-down, bird’s-eye view of a
+maze file you create in a text editor, such as
+the IDE you use to write your .py files. Using
+the WASD keys, the player can move up, left, down,
+and right, respectively, to navigate the @ symbol
+toward the exit marked by the X character.
+To make a maze file, open a text editor and create the following pat-
+tern. Don’t type the numbers along the top and left side; they are only there
+for reference:
+123456789
+1#########
+2#S# # # #
+3#########
+4# # # # #
+5#########
+
+## Maze Runner 3D
+
+This three-dimensional maze runner pro-
+vides the player with a first-person view
+from inside a maze. Try to find your way out!
+You can generate maze files by following the
+instructions in Project 44, “Maze Runner 2D,” or by
+downloading maze files from https://invpy.com/mazes/.
+
+## Million Dice Roll Statistics Simulator
+
+When you roll two six-sided dice, there’s
+a 17 percent chance you’ll roll a 7. That’s
+much better than the odds of rolling a 2: just
+3 percent. That’s because there’s only one com-
+bination of dice rolls that gives you 2 (the one that
+occurs when both dice roll a 1), but many combina-
+tions add up to seven: 1 and 6, 2 and 5, 3 and 4, and
+so on.
+But what about when you roll three dice? Or four? Or 1,000? You could
+mathematically calculate the theoretical probabilities, or you can have
+the computer roll a number of dice one million times to empirically fig-
+ure them out. This program takes that latter approach. In this program,
+you tell the computer to roll N dice one million times and remember the
+results. It then displays the percentage chance of each sum.
+This program does a massive amount of computation, but the computa-
+tion itself isn’t hard to understand.
+
+## Mondrian Art Generator
+
+Piet Mondrian was a 20th-century Dutch
+painter and one of the founders of neoplas-
+ticism, an abstract art movement. His most
+iconic paintings relied on blocks of primary
+colors (blue, yellow, red), black, and white. Using a
+minimalist approach, he separated these colors with
+horizontal and vertical elements.
+This program generates random paintings that follow Mondrian’s style.
+You can find out more about Piet Mondrian at https://en.wikipedia.org/wiki/
+Piet_Mondrian.
+
+## Monty Hall Problem
+
+The Monty Hall Problem illustrates a sur-
+prising fact of probability. The problem
+is loosely based on the old game show Let’s
+Make a Deal and its host, Monty Hall. In the
+Monty Hall Problem, you can pick one of three doors.
+Behind one door is a prize: a new car. Each of the
+other two doors opens onto a worthless goat. Say you
+pick Door #1. Before the door you choose is opened,
+the host opens another door (either #2 or #3), which leads to a goat. You
+can choose to either open the door you originally picked or switch to the
+other unopened door.
+It may seem like it doesn’t matter if you switch or not, but your odds do
+improve if you switch doors! This program demonstrates the Monty Hall
+problem by letting you do repeated experiments.
+To understand why your odds improve, consider a version of the Monty
+Hall Problem with one thousand doors instead of three. You pick one door,
+and then the host opens 998 doors, which all reveal goats. The only two
+Monty Hall Problem 239
+doors that are unopened are the one you selected and one other door. If
+you correctly picked the car door to begin with (a 1 in a 1,000 chance), then
+the host left a random goat door closed. If you picked a goat door (a 999 in
+a 1,000 chance), the host specifically chose the car door to leave closed. The
+choice of which doors to open isn’t random; the host knows to leave the car
+door closed. It’s almost certain that you didn’t pick the car door to begin
+with, so you should switch to the other door.
+Another way to think of it is that you have 1,000 boxes and one box con-
+tains a prize. You guess which box the prize is in and the host puts it in your
+hands. Do you think the prize is in your box or one of the 999 other boxes?
+You don’t need the host to open 998 of the 999 boxes that don’t contain a
+prize; the amount of choice is the same as with the 1,000 doors. The odds
+that you guessed correctly in the beginning are 1 in 1,000, while the odds
+that you did not (and that the prize is in one of the other boxes) is a near cer-
+tain 999 in 1,000.
+More information about the Monty Hall Problem can be found at
+https://en.wikipedia.org/wiki/Monty_Hall_problem.
+
+## Multiplication Table
+
+This program generates a multiplication
+table from 0 × 0 to 12 × 12. While sim-
+ple, it provides a useful demonstration of
+nested loops.
+
+## Ninety-Nine Bottles
+
+“Ninety-Nine Bottles” is a folk song of
+undetermined origin known for its length
+and repetitiveness. The lyrics go, “Ninety-
+nine bottles of milk on the wall, ninety-nine
+bottles of milk. Take one down, pass it around, ninety-
+eight bottles of milk on the wall.” As the lyrics repeat,
+the number of bottles falls from ninety-eight to ninety-
+seven, then from ninety-seven to ninety-six, until it
+reaches zero: “One bottle of milk on the wall, one
+bottle of milk. Take it down, pass it around, no more bottles of milk
+on the wall!”
+Luckily for us, computers are excellent at performing repetitive
+tasks, and this program reproduces all of the lyrics programmatically.
+An extended version of this program is in Project 51, “niNety-nniinE
+BoOttels.”
