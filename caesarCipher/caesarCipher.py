@@ -1,9 +1,3 @@
-"""Caesar Cipher,
-The Caesar cipher is a shift cipher that uses addition and subtraction
-to encrypt and decrypt letters.
-More info at: https://en.wikipedia.org/wiki/Caesar_cipher
-"""
-
 try:
     import pyperclip  # pyperclip copies text to the clipboard.
 except ImportError:

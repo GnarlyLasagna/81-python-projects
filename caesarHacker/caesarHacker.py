@@ -1,10 +1,3 @@
-"""Caesar Cipher Hacker,
-This programs hacks messages encrypted with the Caesar cipher by doing
-a brute force attack against every possible key.
-More info at:
-https://en.wikipedia.org/wiki/Caesar_cipher#Breaking_the_cipher
-"""
-
 print('Caesar Cipher Hacker,')
 
 # Let the user specify the message to hack:

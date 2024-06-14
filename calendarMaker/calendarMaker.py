@@ -1,7 +1,3 @@
-"""Calendar Maker,
-Create monthly calendars, saved to a text file and fit for printing.
-"""
-
 import datetime
 
 # Set up the constants:

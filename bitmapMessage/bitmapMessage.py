@@ -1,7 +1,3 @@
-"""Bitmap Message,
-Displays a text message according to the provided bitmap image.
-"""
-
 import sys
 
 # (!) Try changing this multiline string to any image you like:

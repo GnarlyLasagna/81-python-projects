@@ -1,11 +1,3 @@
-"""Bouncing DVD Logo,
-A bouncing DVD logo animation. You have to be "of a certain age" to
-appreciate this. Press Ctrl-C to stop.
-
-NOTE: Do not resize the terminal window while this program is running.
-This code is available at https://nostarch.com/big-book-small-python-programming
-Tags: short, artistic, bext"""
-
 import sys, random, time
 
 try:

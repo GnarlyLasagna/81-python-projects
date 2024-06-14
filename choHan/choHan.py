@@ -1,7 +1,3 @@
-"""Cho-Han,
-The traditional Japanese dice game of even-odd.
-"""
-
 import random, sys
 
 JAPANESE_NUMBERS = {1: 'ICHI', 2: 'NI', 3: 'SAN',
