@@ -1,8 +1,8 @@
 import copy, random, sys, time
 
 # Set up the constants:
-WIDTH = 79   # The width of the cell grid.
-HEIGHT = 20  # The height of the cell grid.
+WIDTH = 90   # The width of the cell grid.
+HEIGHT = 40   # The height of the cell grid.
 
 # (!) Try changing ALIVE to '#' or another character:
 ALIVE = 'O'  # The character representing a living cell.
