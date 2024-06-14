@@ -183,6 +183,8 @@ see what the results look like!
 
 ## Blackjack
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/blackJack/blackJack.py)
+
 Blackjack, also known as 21, is a card game
 where players try to get as close to 21 points
 as possible without going over. This program
@@ -193,6 +195,8 @@ to numeric codes that computers used before Unicode
 replaced it.
 
 ## Bouncing DVD Logo
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bouncingDvd/bouncingDvd.py)
 
 If you are of a certain age, you’ll remember
 those ancient technological devices called
@@ -224,6 +228,17 @@ F, and so on. To decrypt the message, you must shift
 the encrypted letters in the opposite direction. This
 program lets the user encrypt and decrypt messages
 according to this algorithm.
+
+In modern times, the Caesar cipher isn’t very sophisticated, but that
+makes it ideal for beginners. The program in Project 7, “Caesar Hacker,”
+can brute-force through all 26 possible keys to decrypt messages, even if
+you don’t know the original key. Also, if you encrypt the message with the
+key 13, the Caesar cipher becomes identical to Project 61, “ROT 13 Cipher.”
+
+Learn more about the Caesar cipher at https://en.wikipedia.org/wiki/Caesar_
+cipher. If you’d like to learn about ciphers and code breaking in general, you
+can read my book Cracking Codes with Python (No Starch Press, 2018; https://
+nostarch.com/crackingcodes/).
 
 ## Caeser Hacker
 
