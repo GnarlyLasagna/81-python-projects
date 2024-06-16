@@ -55,8 +55,8 @@ Install Python 3 using Homebrew or your fav package manager:
 3. [Bitmap Message](#Bitmap-Message)
 4. [Blackjack](#blackjack)
 5. [Bouncing DVD Logo](#bouncing-dvd-logo)
-6. [Caeser Cipher](#caeser-cipher)
-7. [Caeser Hacker](#caeser-hacker)
+6. [Caesar Cipher](#caesar-cipher)
+7. [Caesar Hacker](#caesar-hacker)
 8. [Calendar Maker](#calendar-maker)
 9. [Carrot In A Box](#carrot-in-a-box)
 10. [Cho-Han](#cho-han)
@@ -218,7 +218,7 @@ project/bext/.
 
 ## Caeser Cipher
 
-[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caeserCipher/caeserCipher.py)
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caesarCipher/caesarCipher.py)
 
 The Caesar cipher is an ancient encryp-
 tion algorithm used by Julius Caesar. It
@@ -244,6 +244,8 @@ nostarch.com/crackingcodes/).
 
 ## Caeser Hacker
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caesarHacker/caesarHacker.py)
+
 This program can hack messages encrypted
 with the Caesar cipher from Project 6, even
 if you don’t know the key. There are only 26
@@ -253,6 +255,8 @@ play the results to the user. In cryptography, we call
 this technique a brute-force attack.
 
 ## Calendar Maker
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/calendarMaker/calendarMaker.py)
 
 This program generates printable text
 files of monthly calendars for the month
