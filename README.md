@@ -325,6 +325,8 @@ number in the sequence:
 
 ## Conways Game Of Life
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/conwaysGameOfLife/conwaysGameOfLife.py)
+
 Conway’s Game of Life is a cellular autom-
 ata simulation that follows simple rules to
 create interesting patterns. It was invented
