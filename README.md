@@ -271,6 +271,8 @@ the multiline string for the monthly calendar page.
 
 ## Carrot In A Box
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/carrotInABox/carrotInABox.py)
+
 This is a simple and silly bluffing game for
 two human players. Each player has a box.
 One box has a carrot in it, and each player
@@ -279,6 +281,8 @@ in their box and then tells the second player they
 either do or don’t have the carrot. The second
 
 ## Cho-Han
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/choHan/choHan.py)
 
 Cho-han is a dice game played in gambling
 houses of feudal Japan. Two six-sided dice
