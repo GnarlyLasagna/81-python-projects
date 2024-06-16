@@ -297,6 +297,8 @@ Cho-han.
 
 ## Clickbait Headline Generator
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/clickbaitHeadlineGenerator/clickbaitHeadlineGenerator.py)
+
 Our website needs to trick people into
 looking at advertisements! But coming up
 with creative, original content is too hard.
@@ -308,6 +310,8 @@ as many headlines as you need from a Mad Libs–style
 template.
 
 ## Collatz Sequence
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/collatzSequence/collatzSequence.py)
 
 The Collatz sequence, also called the 3n + 1
 problem, is the simplest impossible math
