@@ -370,6 +370,8 @@ This program is similar to Project 19, “Digital Clock.”
 
 ## Deep Cave
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/deepCave/deepCave.py)
+
 This program is an animation of a deep
 cave that descends forever into the earth.
 Although short, this program takes advan-
