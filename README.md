@@ -355,6 +355,8 @@ https://en.wikipedia.org/wiki/Martin_Gardner.
 
 ## Countdown
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/countDown/countDown.py)
+
 This program displays a digital timer that
 counts down to zero. Rather than ­ render
 numeric characters directly, the sevseg.py
