@@ -297,7 +297,7 @@ Cho-han.
 
 ## Clickbait Headline Generator
 
-[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/clickbaitHeadlineGenerator/clickbaitHeadlineGenerator.py)
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/clickBaitHeadlineGenerator/clickBaitHeadlineGenerator.py)
 
 Our website needs to trick people into
 looking at advertisements! But coming up
