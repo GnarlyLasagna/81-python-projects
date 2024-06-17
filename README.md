@@ -424,6 +424,8 @@ late rolling dice that don’t physically exist, such as a
 
 ## Digital Clock
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/digitalClock/digitalClock.py)
+
 This program displays a digital clock
 with the current time. Rather than ren-
 der numeric characters directly, the
