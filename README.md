@@ -436,6 +436,8 @@ for each digit. This program is similar to Project 14,
 
 ## Digital Stream
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/digitalStream/digitalStream.py)
+
 This program mimics the “digital stream”
 visualization from the science fiction movie
 The Matrix. Random beads of binary “rain”
