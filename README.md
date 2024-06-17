@@ -464,6 +464,8 @@ This program is a simple animation of DNA.
 
 ## Ducklings
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ducklings/ducklings.py)
+
 This program creates a scrolling field of
 ducklings. Each duckling has slight varia-
 tions: they can face left or right and have
