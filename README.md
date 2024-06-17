@@ -449,6 +449,8 @@ without using a module such as bext.)
 
 ## DNA Visualization
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/dnaVisualization/dnaVisualization.py)
+
 Deoxyribonucleic acid is a tiny molecule
 that exists in every cell of our bodies and
 contains the blueprint for how our bod-
