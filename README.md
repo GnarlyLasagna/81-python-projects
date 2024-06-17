@@ -396,6 +396,8 @@ the diamond drawings as they increase in size.
 
 ## Dice Math
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diceMath/diceMath.py)
+
 This math quiz program rolls two to six
 dice whose sides you must add up as quickly
 as possible. But this program operates as
