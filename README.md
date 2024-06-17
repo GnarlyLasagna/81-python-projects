@@ -384,6 +384,8 @@ to Project 58, “Rainbow.”
 
 ## Diamonds
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diamonds/diamonds.py)
+
 This program features a small algorithm
 for drawing ASCII-art diamonds of vari-
 ous sizes. It contains functions for drawing
