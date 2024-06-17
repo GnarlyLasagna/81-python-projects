@@ -408,6 +408,8 @@ tice arithmetic.
 
 ## Dice Roller
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diceRoller/diceRoller.py)
+
 Dungeons & Dragons and other tabletop
 role-playing games use special dice that
 can have 4, 8, 10, 12, or even 20 sides. These
