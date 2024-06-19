@@ -579,6 +579,8 @@ to Connect Four.
 
 ## Guess The Number
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/guessTheNumber/guessTheNumber.py)
+
 Guess the Number is a classic game for
 beginners to practice basic programming
 techniques. In this game, the computer
