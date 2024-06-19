@@ -570,6 +570,8 @@ Emoji Sim at http://ncase.me/simulating/model/.
 
 ## Four In A Row
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fourInARow/fourInARow.py)
+
 In this classic tile-dropping board game
 for two players, you must try to get four of
 your tiles in a row horizontally, vertically,
