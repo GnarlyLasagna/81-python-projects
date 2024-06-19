@@ -657,6 +657,8 @@ robots can slip through corners!
 
 ## J'accuse!
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/jaccuse/jaccuse.py)
+
 You are the world-famous detective Mathilde
 Camus. Zophie the cat has gone missing,
 and you must sift through the clues. Suspects
