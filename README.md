@@ -557,6 +557,8 @@ applications.
 
 ## Forest Fire Sim
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/forestFireSim/forestFireSim.py)
+
 This simulation shows a forest whose trees
 are constantly growing and then being
 burned down. On each step of the simula-
