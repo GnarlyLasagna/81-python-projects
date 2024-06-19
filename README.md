@@ -589,6 +589,8 @@ high or too low.
 
 ## Gullible
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/gullible/gullible.py)
+
 In this short and simple program, you can
 learn the secret and subtle art of keeping
 a gullible person busy for hours. I won’t
