@@ -613,6 +613,8 @@ Fallout series of video games.
 
 ## Hangman And Guillotine
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hangmanAndGuillotine/hangmanAndGuillotine.py)
+
 This classic word game has the player guess
 the letters to a secret word. For each incor-
 rect letter, another part of the hangman is
