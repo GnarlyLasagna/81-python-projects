@@ -635,6 +635,8 @@ preted as escape characters.
 
 ## Hourglass
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hourglass/hourglass.py)
+
 This visualization program has a rough
 physics engine that simulates sand falling
 through the small aperture of an hourglass.
