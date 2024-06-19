@@ -598,6 +598,8 @@ whether you’re smart or . . . not so smart.
 
 ## Hacking Minigame
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hackingMinigame/hackingMinigame.py)
+
 In this game, the player must hack a com-
 puter by guessing a seven-letter word used
 as the secret password. The computer’s mem-
