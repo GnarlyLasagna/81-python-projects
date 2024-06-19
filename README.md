@@ -623,6 +623,8 @@ you can replace these with your own set of words.
 
 ## Hex Grid
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hexGrid/hexGrid.py)
+
 This short program produces a tessel-
 lated image of a hexagonal grid, similar to
 chicken wire. It shows that you don’t need a
