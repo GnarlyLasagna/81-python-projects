@@ -505,6 +505,8 @@ with Project 56, “Prime Numbers.”
 
 ## First Draw
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/firstDraw/firstDraw.py)
+
 This program tests your reaction speed:
 press ENTER as soon as you see the word
 DRAW. But careful, though. Press it before
