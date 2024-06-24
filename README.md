@@ -533,6 +533,8 @@ be found at https://en.wikipedia.org/wiki/Fibonacci_number.
 
 ## Fish Tank
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fishTank/fishTank.py)
+
 Watch your own virtual fish in a virtual
 fish tank, complete with air bubblers and
 kelp plants. Each time you run the program,
@@ -547,6 +549,8 @@ correctly. More information about the bext module can
 be found at https://pypi.org/project/bext/.
 
 ## Flooder
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/flooder/flooder.py)
 
 Flooder is a colorful game where a player
 tries to fill the board with a single color
