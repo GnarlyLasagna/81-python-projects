@@ -3,6 +3,7 @@
 ## Introduction
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
 
+---
 ## Getting Started
 
 Install Python 3 using Homebrew or your fav package manager:
@@ -46,6 +47,7 @@ Install Python 3 using Homebrew or your fav package manager:
     python3 bagels.py
     ```
 
+---
 ## Table of Contents
 1. [Bagels](#Bagels)
 2. [Birthday Paradox](#Birthday-Paradox)
@@ -130,6 +132,7 @@ Install Python 3 using Homebrew or your fav package manager:
 81. [Water Bucket Puzzle](#water-bucket-puzzle)
 
 
+---
 ## Bagels
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bagels/bagels.py)
@@ -144,6 +147,7 @@ digit in the correct place, and “Bagels” if your guess
 has no correct digits. You have 10 tries to guess the
 secret number.
 
+---
 ## Birthday Paradox
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/birthdayParadox/birthdayParadox.py)
@@ -161,6 +165,7 @@ the percentages for groups of different sizes. We call these types of experi-
 ments, in which we conduct multiple random trials to understand the
 likely outcomes, Monte Carlo experiments.
 
+---
 ## Bitmap Message
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bitmapMessage/bitmapMessage.py)
@@ -178,6 +183,7 @@ system makes it good for begin-
 ners. Try experimenting with different messages to
 see what the results look like!
 
+---
 ## Blackjack
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/blackJack/blackJack.py)
@@ -191,6 +197,7 @@ Interchange (ASCII) is a mapping of text characters
 to numeric codes that computers used before Unicode
 replaced it.
 
+---
 ## Bouncing DVD Logo
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/bouncingDvd/bouncingDvd.py)
@@ -213,6 +220,7 @@ run from the Command Prompt or Terminal in order to display correctly.
 You can find more information about the bext module at https://pypi.org/
 project/bext/.
 
+---
 ## Caeser Cipher
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caesarCipher/caesarCipher.py)
@@ -239,6 +247,7 @@ cipher. If you’d like to learn about ciphers and code breaking in general, you
 can read my book Cracking Codes with Python (No Starch Press, 2018; https://
 nostarch.com/crackingcodes/).
 
+---
 ## Caeser Hacker
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caesarHacker/caesarHacker.py)
@@ -251,6 +260,7 @@ puter can easily try all possible decryptions and dis-
 play the results to the user. In cryptography, we call
 this technique a brute-force attack.
 
+---
 ## Calendar Maker
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/calendarMaker/calendarMaker.py)
@@ -266,6 +276,7 @@ Fortunately, Python’s datetime module handles these
 details for you. This program focuses on generating
 the multiline string for the monthly calendar page.
 
+---
 ## Carrot In A Box
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/carrotInABox/carrotInABox.py)
@@ -277,6 +288,7 @@ wants to have the carrot. The first player looks
 in their box and then tells the second player they
 either do or don’t have the carrot. The second
 
+---
 ## Cho-Han
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/choHan/choHan.py)
