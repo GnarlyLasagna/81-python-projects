@@ -71,7 +71,7 @@ Install Python 3 using Homebrew or your fav package manager:
 22. [Ducklings](#ducklings)
 23. [Etching Drawer](#etching-drawer)
 24. [Factor Finder](#factor-finder)
-25. [First Draw](#first-draw)
+25. [Fast Draw](#fast-draw)
 26. [Fibonacci](#fibonacci)
 27. [Fish Tank](#fish-tank)
 28. [Flooder](#flooder)
@@ -503,9 +503,9 @@ discover some new prime numbers! (Hint: Prime numbers always end with
 an odd number that isn’t 5.) You can also have the computer calculate them
 with Project 56, “Prime Numbers.”
 
-## First Draw
+## Fast Draw
 
-[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/firstDraw/firstDraw.py)
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fastDraw/fastDraw.py)
 
 This program tests your reaction speed:
 press ENTER as soon as you see the word
@@ -514,6 +514,8 @@ DRAW appears, and you lose. Are you the fast-
 est keyboard in the west?
 
 ## Fibonacci
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fibonacci/fibonacci.py)
 
 The Fibonacci sequence is a famous math-
 ematical pattern credited to Italian math-
