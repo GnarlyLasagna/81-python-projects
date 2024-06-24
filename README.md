@@ -489,6 +489,8 @@ lines 6 to 14 of the source code.
 
 ## Factor Finder
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/factorFinder/factorFinder.py)
+
 A number’s factors are any two other num-
 bers that, when multiplied with each other,
 produce the number. For example, 2 × 13 =
