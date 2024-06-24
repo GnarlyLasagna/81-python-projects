@@ -1,8 +1,5 @@
 # 81-python-projects
 
-**Bold Text**
-*Italic Text*
-
 ## Introduction
 My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
 
@@ -475,6 +472,8 @@ This gives us 96 different possible variations, which
 the Ducklings program produces endlessly.
 
 ## Etching Drawer
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/etchingDrawer/etchingDrawer.py)
 
 When you move a pen point around the
 screen with the WASD keys, the etching
