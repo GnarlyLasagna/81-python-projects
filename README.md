@@ -844,6 +844,8 @@ downloading maze files from https://invpy.com/mazes/.
 
 ## Million Dice Roll Statistics Simulator
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/millionDiceRollStatisticsSimulator/millionDiceRollStatisticsSimulator.py)
+
 When you roll two six-sided dice, there’s
 a 17 percent chance you’ll roll a 7. That’s
 much better than the odds of rolling a 2: just
