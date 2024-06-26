@@ -812,6 +812,8 @@ found at https://en.wikipedia.org/wiki/Mancala.
 
 ## Maze Runner 2D
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner2D/mazeRunner2D.py)
+
 This two-dimensional maze runner shows
 the player a top-down, bird’s-eye view of a
 maze file you create in a text editor, such as
