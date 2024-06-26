@@ -865,6 +865,8 @@ tion itself isn’t hard to understand.
 
 ## Mondrian Art Generator
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mondrianArtGenerator/mondrianArtGenerator.py)
+
 Piet Mondrian was a 20th-century Dutch
 painter and one of the founders of neoplas-
 ticism, an abstract art movement. His most
