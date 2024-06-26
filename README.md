@@ -715,6 +715,8 @@ tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game
 
 ## Langton's Ant
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/langtonsAnt/langtonsAnt.py)
+
 Langton’s Ant is a cellular automata simula-
 tion on a two-dimensional grid, similar to
 Project 13, “Conway’s Game of Life.” In the
