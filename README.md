@@ -833,6 +833,8 @@ for reference:
 
 ## Maze Runner 3D
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner3D/mazeRunner3D.py)
+
 This three-dimensional maze runner pro-
 vides the player with a first-person view
 from inside a maze. Try to find your way out!
