@@ -735,6 +735,8 @@ Langton%27s_ant.
 
 ## Leetspeak
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/leetSpeak/leetSpeak.py)
+
 There’s no better way to demonstrate your
 mad hacker skills than by replacing let-
 ters in your text with numbers: m4d h4x0r
