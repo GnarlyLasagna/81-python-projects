@@ -880,6 +880,8 @@ Piet_Mondrian.
 
 ## Monty Hall Problem
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/montyHallProblem/montyHallProblem.py)
+
 The Monty Hall Problem illustrates a sur-
 prising fact of probability. The problem
 is loosely based on the old game show Let’s
