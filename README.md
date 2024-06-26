@@ -789,6 +789,8 @@ number.
 
 ## Mancala
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mancala/mancala.py)
+
 The board game Mancala is at least 2,000
 years old, making it almost as old as Project
 63, “Royal Game of Ur.” It is a “seed-sowing”
