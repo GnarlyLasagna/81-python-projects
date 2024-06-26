@@ -752,6 +752,8 @@ at https://en.wikipedia.org/wiki/Leet.
 
 ## Lucky Stars
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/luckyStars/luckyStars.py)
+
 In this push-your-luck game, you roll dice
 to collect stars. The more you roll, the more
 stars you can get, but if you get three skulls
