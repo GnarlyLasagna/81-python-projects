@@ -920,6 +920,8 @@ https://en.wikipedia.org/wiki/Monty_Hall_problem.
 
 ## Multiplication Table
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/multiplicationTable/multiplicationTable.py)
+
 This program generates a multiplication
 table from 0 × 0 to 12 × 12. While sim-
 ple, it provides a useful demonstration of
