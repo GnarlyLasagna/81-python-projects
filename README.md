@@ -773,6 +773,8 @@ is even.
 
 ## Magic Fortune Ball
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/magicFortuneBall/magicFortuneBall.py)
+
 The Magic Fortune Ball can predict the
 future and answer your yes/no questions
 with 100 percent accuracy using the power
