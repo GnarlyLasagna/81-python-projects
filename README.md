@@ -993,6 +993,8 @@ from https://inventwithpython.com/periodictable.csv.
 
 ## Pig Latin
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/pigLatin/pigLatin.py)
+
 Pig Latin is a word game that transforms
 English words into a parody of Latin. In
 Pig Latin, if a word begins with a consonant,
