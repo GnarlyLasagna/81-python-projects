@@ -540,6 +540,7 @@ DRAW. But careful, though. Press it before
 DRAW appears, and you lose. Are you the fast-
 est keyboard in the west?
 
+---
 ## Fibonacci
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fibonacci/fibonacci.py)
@@ -558,6 +559,7 @@ many other areas. This program lets you calculate the sequence as high as
 you are willing to go. More information about the Fibonacci sequence can
 be found at https://en.wikipedia.org/wiki/Fibonacci_number.
 
+---
 ## Fish Tank
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fishTank/fishTank.py)
@@ -575,6 +577,7 @@ the Command Prompt or Terminal in order to display
 correctly. More information about the bext module can
 be found at https://pypi.org/project/bext/.
 
+---
 ## Flooder
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/flooder/flooder.py)
@@ -591,6 +594,7 @@ fill algorithm to paint the board and works similarly
 to the “paint bucket” or “fill” tool in many painting
 applications.
 
+---
 ## Forest Fire Sim
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/forestFireSim/forestFireSim.py)
@@ -606,6 +610,7 @@ likely to suffer a larger fire than a sparsely packed
 one. This simulation was inspired by Nicky Case’s
 Emoji Sim at http://ncase.me/simulating/model/.
 
+---
 ## Four In A Row
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fourInARow/fourInARow.py)
@@ -617,6 +622,7 @@ or diagonally, while preventing your oppo-
 nent from doing the same. This program is similar
 to Connect Four.
 
+---
 ## Guess The Number
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/guessTheNumber/guessTheNumber.py)
@@ -629,6 +635,7 @@ The player has 10 chances to guess the number. After
 each guess, the computer tells the player if it was too
 high or too low.
 
+---
 ## Gullible
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/gullible/gullible.py)
@@ -640,6 +647,7 @@ spoil the punch line here. Copy the code and
 run it for yourself. This project is great for beginners,
 whether you’re smart or . . . not so smart.
 
+---
 ## Hacking Minigame
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hackingMinigame/hackingMinigame.py)
@@ -657,6 +665,7 @@ their second and third letter. This game is similar to
 Project 1, “Bagels,” and the hacking minigame in the
 Fallout series of video games.
 
+---
 ## Hangman And Guillotine
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hangmanAndGuillotine/hangmanAndGuillotine.py)
@@ -669,6 +678,7 @@ the hangman completes. The secret words in this ver-
 sion are all animals like RABBIT and PIGEON, but
 you can replace these with your own set of words.
 
+---
 ## Hex Grid
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hexGrid/hexGrid.py)
@@ -683,6 +693,7 @@ Note that this program uses raw strings, which prefix the opening
 quote with a lowercase r so that the backslashes in the string aren’t inter-
 preted as escape characters.
 
+---
 ## Hourglass
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hourglass/hourglass.py)
@@ -694,6 +705,7 @@ The sand piles up in the bottom half of the
 hourglass; then the hourglass is turned over so the
 process repeats.
 
+---
 ## Hungry Robots
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hungryRobots/hungryRobots.py)
@@ -709,6 +721,7 @@ You have a personal teleporter device that can send you to a random
 new place, but it only has enough battery for two trips. Also, you and the
 robots can slip through corners!
 
+---
 ## J'accuse!
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/jaccuse/jaccuse.py)
@@ -728,6 +741,7 @@ the kidnapper), but you must determine if you can believe them. You have
 five minutes to find the criminal but will lose if you make three wrong accusa-
 tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game.
 
+---
 ## Langton's Ant
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/langtonsAnt/langtonsAnt.py)
@@ -748,6 +762,7 @@ Ant was invented by computer scientist Chris Langton in 1986. More infor-
 mation about Langton’s Ant can be found at https://en.wikipedia.org/wiki/
 Langton%27s_ant.
 
+---
 ## Leetspeak
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/leetSpeak/leetSpeak.py)
@@ -765,6 +780,7 @@ Leetspeak may be hard to read at first, but the program itself is simple
 and good for beginners. More information about leetspeak can be found
 at https://en.wikipedia.org/wiki/Leet.
 
+---
 ## Lucky Stars
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/luckyStars/luckyStars.py)
@@ -786,6 +802,7 @@ There are six gold dice, four silver dice, and three bronze dice in the
 cup. Gold dice have more Stars, bronze dice have more Skulls, and silver
 is even.
 
+---
 ## Magic Fortune Ball
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/magicFortuneBall/magicFortuneBall.py)
@@ -802,6 +819,7 @@ Most of the code is dedicated to setting the eerie atmosphere. The
 program itself simply selects a message to display in response to a random
 number.
 
+---
 ## Mancala
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mancala/mancala.py)
@@ -825,6 +843,7 @@ claims the remaining seeds for their store, and the winner is the one with
 the most seeds. More information about Mancala and its variants can be
 found at https://en.wikipedia.org/wiki/Mancala.
 
+---
 ## Maze Runner 2D
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner2D/mazeRunner2D.py)
@@ -846,6 +865,7 @@ for reference:
 4# # # # #
 5#########
 
+---
 ## Maze Runner 3D
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner3D/mazeRunner3D.py)
@@ -857,6 +877,7 @@ You can generate maze files by following the
 instructions in Project 44, “Maze Runner 2D,” or by
 downloading maze files from https://invpy.com/mazes/.
 
+---
 ## Million Dice Roll Statistics Simulator
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/millionDiceRollStatisticsSimulator/millionDiceRollStatisticsSimulator.py)
@@ -878,6 +899,7 @@ results. It then displays the percentage chance of each sum.
 This program does a massive amount of computation, but the computa-
 tion itself isn’t hard to understand.
 
+---
 ## Mondrian Art Generator
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mondrianArtGenerator/mondrianArtGenerator.py)
@@ -893,6 +915,7 @@ This program generates random paintings that follow Mondrian’s style.
 You can find out more about Piet Mondrian at https://en.wikipedia.org/wiki/
 Piet_Mondrian.
 
+---
 ## Monty Hall Problem
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/montyHallProblem/montyHallProblem.py)
@@ -933,6 +956,7 @@ tain 999 in 1,000.
 More information about the Monty Hall Problem can be found at
 https://en.wikipedia.org/wiki/Monty_Hall_problem.
 
+---
 ## Multiplication Table
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/multiplicationTable/multiplicationTable.py)
@@ -942,6 +966,7 @@ table from 0 × 0 to 12 × 12. While sim-
 ple, it provides a useful demonstration of
 nested loops.
 
+---
 ## Ninety-Nine Bottles
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ninetyNineBottles/ninetyNineBottles.py)
@@ -962,6 +987,7 @@ tasks, and this program reproduces all of the lyrics programmatically.
 An extended version of this program is in Project 51, “niNety-nniinE
 BoOttels.”
 
+---
 ## Ninety-Nniine Boottels
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ninetyNineBottles2/ninetyNineBottles2.py)
@@ -975,6 +1001,7 @@ As the song continues to play, these mutations add up, resulting in
 a very silly song. It’s a good idea to try Project 50, “Ninety-Nine Bottles,”
 before attempting this one.
 
+---
 ## Numeral System Counters
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/numeralSystemCounters/numeralSystemCounters.py)
@@ -992,6 +1019,7 @@ extends into the letters A to F.
 We can represent any number in any numeral system, and this program
 displays a range of numbers in decimal, binary, and hexadecimal.
 
+---
 ## Periodic Table Of The Elements
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/periodicTableOfElements/periodicTableOfElements.py)
