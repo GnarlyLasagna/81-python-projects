@@ -962,6 +962,8 @@ before attempting this one.
 
 ## Numeral System Counters
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/numeralSystemCounters/numeralSystemCounters.py)
+
 We’re used to counting in the decimal
 numeral system, which uses 10 digits: 0
 through 9. This system likely developed
@@ -976,6 +978,8 @@ We can represent any number in any numeral system, and this program
 displays a range of numbers in decimal, binary, and hexadecimal.
 
 ## Periodic Table Of The Elements
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/periodicTableOfElements/periodicTableOfElements.py)
 
 The periodic table of the elements orga-
 nizes all known chemical elements into
