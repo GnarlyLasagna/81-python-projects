@@ -929,6 +929,8 @@ nested loops.
 
 ## Ninety-Nine Bottles
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ninetyNineBottles/ninetyNineBottles.py)
+
 “Ninety-Nine Bottles” is a folk song of
 undetermined origin known for its length
 and repetitiveness. The lyrics go, “Ninety-
