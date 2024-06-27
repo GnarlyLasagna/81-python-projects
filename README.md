@@ -304,6 +304,7 @@ cially suitable for beginners. More information about
 Cho-han can be found at https://en.wikipedia.org/wiki/
 Cho-han.
 
+---
 ## Clickbait Headline Generator
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/clickBaitHeadlineGenerator/clickBaitHeadlineGenerator.py)
@@ -318,6 +319,7 @@ readers don’t seem to mind. This program generates
 as many headlines as you need from a Mad Libs–style
 template.
 
+---
 ## Collatz Sequence
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/collatzSequence/collatzSequence.py)
@@ -332,6 +334,7 @@ number in the sequence:
 2. If n is odd, the next number n is n * 3 + 1.
 3. If n is 1, stop. Otherwise, repeat.
 
+---
 ## Conways Game Of Life
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/conwaysGameOfLife/conwaysGameOfLife.py)
@@ -362,6 +365,7 @@ Conway%27s_Game_of_Life, and more information about Martin Gardner at
 https://en.wikipedia.org/wiki/Martin_Gardner.
 
 
+---
 ## Countdown
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/countDown/countDown.py)
@@ -377,6 +381,7 @@ any number of seconds, minutes, and hours you like.
 This program is similar to Project 19, “Digital Clock.”
 
 
+---
 ## Deep Cave
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/deepCave/deepCave.py)
@@ -391,6 +396,7 @@ duce something fun to watch. This program is similar
 to Project 58, “Rainbow.”
 
 
+---
 ## Diamonds
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diamonds/diamonds.py)
@@ -403,6 +409,7 @@ the size you dictate. These functions are good practice
 for a beginner; try to understand the pattern behind
 the diamond drawings as they increase in size.
 
+---
 ## Dice Math
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diceMath/diceMath.py)
@@ -415,6 +422,7 @@ the faces of the dice to random places on the screen.
 The ASCII-art aspect adds a fun twist while you prac-
 tice arithmetic.
 
+---
 ## Dice Roller
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diceRoller/diceRoller.py)
@@ -431,6 +439,7 @@ case you forgot to bring your own. It can also simu-
 late rolling dice that don’t physically exist, such as a
 38-sided die.
 
+---
 ## Digital Clock
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/digitalClock/digitalClock.py)
@@ -443,6 +452,7 @@ Segment Display Module,” generates the drawings
 for each digit. This program is similar to Project 14,
 “Countdown.”
 
+---
 ## Digital Stream
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/digitalStream/digitalStream.py)
@@ -456,6 +466,7 @@ due to the way text moves as the screen scrolls down,
 it’s not possible to make the streams fall downward
 without using a module such as bext.)
 
+---
 ## DNA Visualization
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/dnaVisualization/dnaVisualization.py)
@@ -471,6 +482,7 @@ long molecule; it’s microscopic, but if it were stretched
 out, its 3 billion base pairs would be 2 meters long!
 This program is a simple animation of DNA.
 
+---
 ## Ducklings
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ducklings/ducklings.py)
@@ -483,6 +495,7 @@ types of mouths, and three positions for their wings.
 This gives us 96 different possible variations, which
 the Ducklings program produces endlessly.
 
+---
 ## Etching Drawer
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/etchingDrawer/etchingDrawer.py)
@@ -499,6 +512,7 @@ of other drawings into this program, like the WASD
 commands for the Hilbert Curve fractal presented on
 lines 6 to 14 of the source code.
 
+---
 ## Factor Finder
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/factorFinder/factorFinder.py)
@@ -515,6 +529,7 @@ discover some new prime numbers! (Hint: Prime numbers always end with
 an odd number that isn’t 5.) You can also have the computer calculate them
 with Project 56, “Prime Numbers.”
 
+---
 ## Fast Draw
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fastDraw/fastDraw.py)
