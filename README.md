@@ -949,6 +949,8 @@ BoOttels.”
 
 ## Ninety-Nniine Boottels
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ninetyNineBottles2/ninetyNineBottles2.py)
+
 In this version of the song “Ninety-Nine
 Bottles,” the program introduces small
 imperfections in each stanza by either
