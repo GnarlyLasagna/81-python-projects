@@ -1472,6 +1472,8 @@ Codes with Python (No Starch Press, 2018; https://nostarch.com/crackingcodes/).
 
 ## Water Bucket Puzzle
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/waterBucketPuzzle/waterBucketPuzzle.py)
+
 In this solitaire puzzle game, you must use
 three buckets (three-liter, five-liter, and
 eight-liter buckets) to collect exactly four
