@@ -1416,6 +1416,8 @@ easier version first.)
 
 ## Trick Questions
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/trickQuestions/trickQuestions.py)
+
 What does a yellow stone thrown into a blue
 pond become? Do they have a 4th of July in
 England? How can a doctor go 30 days with-
