@@ -185,7 +185,7 @@ see what the results look like!
 
 ---
 ## Blackjack
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/blackJack/blackJack.py)
 
 Blackjack, also known as 21, is a card game
@@ -278,7 +278,7 @@ the multiline string for the monthly calendar page.
 
 ---
 ## Carrot In A Box
-
+:star: :star: 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/carrotInABox/carrotInABox.py)
 
 This is a simple and silly bluffing game for
@@ -306,7 +306,7 @@ Cho-han.
 
 ---
 ## Clickbait Headline Generator
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/clickBaitHeadlineGenerator/clickBaitHeadlineGenerator.py)
 
 Our website needs to trick people into
@@ -411,7 +411,7 @@ the diamond drawings as they increase in size.
 
 ---
 ## Dice Math
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diceMath/diceMath.py)
 
 This math quiz program rolls two to six
@@ -484,7 +484,7 @@ This program is a simple animation of DNA.
 
 ---
 ## Ducklings
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ducklings/ducklings.py)
 
 This program creates a scrolling field of
@@ -497,7 +497,7 @@ the Ducklings program produces endlessly.
 
 ---
 ## Etching Drawer
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/etchingDrawer/etchingDrawer.py)
 
 When you move a pen point around the
@@ -579,7 +579,7 @@ be found at https://pypi.org/project/bext/.
 
 ---
 ## Flooder
-
+:star: :star: 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/flooder/flooder.py)
 
 Flooder is a colorful game where a player
@@ -612,7 +612,7 @@ Emoji Sim at http://ncase.me/simulating/model/.
 
 ---
 ## Four In A Row
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fourInARow/fourInARow.py)
 
 In this classic tile-dropping board game
@@ -649,7 +649,7 @@ whether you’re smart or . . . not so smart.
 
 ---
 ## Hacking Minigame
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hackingMinigame/hackingMinigame.py)
 
 In this game, the player must hack a com-
@@ -667,7 +667,7 @@ Fallout series of video games.
 
 ---
 ## Hangman And Guillotine
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hangmanAndGuillotine/hangmanAndGuillotine.py)
 
 This classic word game has the player guess
@@ -695,7 +695,7 @@ preted as escape characters.
 
 ---
 ## Hourglass
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hourglass/hourglass.py)
 
 This visualization program has a rough
@@ -707,7 +707,7 @@ process repeats.
 
 ---
 ## Hungry Robots
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hungryRobots/hungryRobots.py)
 
 You are trapped in a maze with hungry
@@ -743,7 +743,7 @@ tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game
 
 ---
 ## Langton's Ant
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/langtonsAnt/langtonsAnt.py)
 
 Langton’s Ant is a cellular automata simula-
@@ -782,7 +782,7 @@ at https://en.wikipedia.org/wiki/Leet.
 
 ---
 ## Lucky Stars
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/luckyStars/luckyStars.py)
 
 In this push-your-luck game, you roll dice
@@ -821,7 +821,7 @@ number.
 
 ---
 ## Mancala
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mancala/mancala.py)
 
 The board game Mancala is at least 2,000
@@ -845,7 +845,7 @@ found at https://en.wikipedia.org/wiki/Mancala.
 
 ---
 ## Maze Runner 2D
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner2D/mazeRunner2D.py)
 
 This two-dimensional maze runner shows
@@ -901,7 +901,7 @@ tion itself isn’t hard to understand.
 
 ---
 ## Mondrian Art Generator
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mondrianArtGenerator/mondrianArtGenerator.py)
 
 Piet Mondrian was a 20th-century Dutch
@@ -917,7 +917,7 @@ Piet_Mondrian.
 
 ---
 ## Monty Hall Problem
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/montyHallProblem/montyHallProblem.py)
 
 The Monty Hall Problem illustrates a sur-
@@ -1153,6 +1153,7 @@ generally, you can read my book Cracking Codes with Python (No Starch Press,
 2018; https://nostarch.com/crackingcodes/).
 
 ## Rotating Cube
+:star: :star:
 
 This project features an animation of a
 3D cube rotating using trigonometric func-
@@ -1166,6 +1167,7 @@ the wireframe model for a cube and an icosphere, a rough sphere made of
 triangles.
 
 ## Royal Game of Ur
+:star: :star:
 
 The Royal Game of Ur is a 5,000-year-old
 game from Mesopotamia. Archeologists
@@ -1255,6 +1257,7 @@ stand the math, this program is rather short and
 easy to copy.
 
 ## Sliding Tile Puzzle
+:star: :star:
 
 This classic puzzle relies on a 4 × 4 board
 with 15 numbered tiles and one free space.
@@ -1280,6 +1283,7 @@ other, leaving a slime trail in their wake. This program
 is good for beginners.
 
 ## Soroban Japanese Abacus
+:star: :star:
 
 An abacus, also called a counting frame, is a
 calculating tool used in many cultures long
@@ -1347,6 +1351,7 @@ other programs can import it as a module with import spongecase and then
 call the spongecase.englishToSpongecase() function.
 
 ## Sudoku Puzzle
+:star: :star:
 
 Sudoku is a popular puzzle game in news-
 papers and mobile apps. The Sudoku board
@@ -1373,6 +1378,8 @@ More information about the pyttsx3 module can be found at https://
 pypi.org/project/pyttsx3/.
 
 ## Three-Card Monte
+:star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/threeCardMonte/threeCardMonte.py)
 
 Three-card monte is a common scam
 played on gullible tourists and other easy
@@ -1419,7 +1426,7 @@ setting the TOTAL_DISKS variable to 3 or 4 to solve an
 easier version first.)
 
 ## Trick Questions
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/trickQuestions/trickQuestions.py)
 
 What does a yellow stone thrown into a blue
@@ -1436,7 +1443,7 @@ answers, so you might want to download and play this game from https://
 inventwithpython.com/trickquestions.py before looking at the source code.
 
 ## Twenty Fourty-Eight
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/twentyFortyEight/twentyFortyEight.py)
 
 Gabriele Cirulli, a web developer, invented
@@ -1481,7 +1488,7 @@ more about ciphers and code breaking, you can read my book Cracking
 Codes with Python (No Starch Press, 2018; https://nostarch.com/crackingcodes/).
 
 ## Water Bucket Puzzle
-
+:star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/waterBucketPuzzle/waterBucketPuzzle.py)
 
 In this solitaire puzzle game, you must use
