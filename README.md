@@ -560,7 +560,7 @@ you are willing to go. More information about the Fibonacci sequence can
 be found at https://en.wikipedia.org/wiki/Fibonacci_number.
 
 ---
-## Fish Tank
+## Fish Tank :star:
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fishTank/fishTank.py)
 
