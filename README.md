@@ -1431,6 +1431,8 @@ inventwithpython.com/trickquestions.py before looking at the source code.
 
 ## Twenty Fourty-Eight
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/twentyFortyEight/twentyFortyEight.py)
+
 Gabriele Cirulli, a web developer, invented
 the game 2048 in one weekend. It was
 inspired by Veewo Studios’ 1024 game,
