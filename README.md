@@ -1444,6 +1444,8 @@ before the entire board fills up.
 
 ## Vigenere Cipher
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/vigenereCipher/vigenereCipher.py)
+
 The Vigenère cipher, misattributed to 19th-
 century cryptographer Blaise de Vigenère
 (others had independently invented it ear-
