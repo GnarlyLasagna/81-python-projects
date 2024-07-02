@@ -75,7 +75,7 @@ Install Python 3 using Homebrew or your fav package manager:
 24. [Factor Finder](#factor-finder)
 25. [Fast Draw](#fast-draw)
 26. [Fibonacci](#fibonacci)
-27. [Fish Tank](#fish-tank)
+27. [Fish Tank :star:](#fish-tank-:star:)
 28. [Flooder](#flooder)
 29. [Forest Fire Sim](#forest-fire-sim)
 30. [Four In A Row](#four-in-a-row)
