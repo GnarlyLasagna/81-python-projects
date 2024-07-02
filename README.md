@@ -1075,6 +1075,8 @@ the next time you want to buy a lottery ticket, pick the numbers 1, 2, 3, 4,
 
 ## Prime Numbers
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/primeNumbers/primeNumbers.py)
+
 A prime number is a number that is evenly
 divisible only by one and itself. Prime num-
 bers have a variety of practical applications,
