@@ -1051,6 +1051,8 @@ becomes “elephantyay” and “umbrella” becomes
 
 ## Powerball Lottery
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/powerballLottery/powerballLottery.py)
+
 The Powerball Lottery is an exciting way to
 lose small amounts of money. If you pur-
 chase a $2 ticket, you can pick six numbers:
