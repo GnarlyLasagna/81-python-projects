@@ -1,7 +1,8 @@
 # 81-python-projects
 
 ## Introduction
-My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS
+My code from working with THE BIG BOOK OF SMALL PYTHON PROJECTS.
+The projects are in alphabetical order but youll notice stars (:star:) next to the more complex projects. more stars being more complex
 
 ---
 ## Getting Started
