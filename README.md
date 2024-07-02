@@ -75,7 +75,7 @@ Install Python 3 using Homebrew or your fav package manager:
 24. [Factor Finder](#factor-finder)
 25. [Fast Draw](#fast-draw)
 26. [Fibonacci](#fibonacci)
-27. [Fish Tank](#fish-tank-:star:)
+27. [Fish Tank](#fish-tank)
 28. [Flooder](#flooder)
 29. [Forest Fire Sim](#forest-fire-sim)
 30. [Four In A Row](#four-in-a-row)
@@ -560,8 +560,8 @@ you are willing to go. More information about the Fibonacci sequence can
 be found at https://en.wikipedia.org/wiki/Fibonacci_number.
 
 ---
-## Fish Tank :star:
-
+## Fish Tank
+:star: :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fishTank/fishTank.py)
 
 Watch your own virtual fish in a virtual
@@ -723,7 +723,7 @@ robots can slip through corners!
 
 ---
 ## J'accuse!
-
+:star: :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/jaccuse/jaccuse.py)
 
 You are the world-famous detective Mathilde
@@ -867,7 +867,7 @@ for reference:
 
 ---
 ## Maze Runner 3D
-
+:star: :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner3D/mazeRunner3D.py)
 
 This three-dimensional maze runner pro-
