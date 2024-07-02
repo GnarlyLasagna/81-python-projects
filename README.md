@@ -1403,6 +1403,8 @@ nent if they’re not careful.
 
 ## Tower Of Hanoi
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/towerOfHanoi/towerOfHanoi.py)
+
 The Tower of Hanoi is a stack-moving puz-
 zle game that features three poles on which
 you can stack various-sized disks. The object
