@@ -538,20 +538,16 @@ with Project 56, “Prime Numbers.”
 This program tests your reaction speed:
 press ENTER as soon as you see the word
 DRAW. But careful, though. Press it before
-DRAW appears, and you lose. Are you the fast-
-est keyboard in the west?
+DRAW appears, and you lose. Are you the fastest keyboard in the west?
 
 ---
 ## Fibonacci
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/fibonacci/fibonacci.py)
 
-The Fibonacci sequence is a famous math-
-ematical pattern credited to Italian math-
-ematician Fibonacci in the 13th century
+The Fibonacci sequence is a famous mathematical pattern credited to Italian mathematician Fibonacci in the 13th century
 (though others had discovered it even earlier).
-The sequence begins with 0 and 1, and the next num-
-ber is always the sum of the previous two numbers.
+The sequence begins with 0 and 1, and the next number is always the sum of the previous two numbers.
 The sequence continues forever:
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987 . . .
 The Fibonacci sequence has applications in music composition, stock
@@ -602,8 +598,7 @@ applications.
 
 This simulation shows a forest whose trees
 are constantly growing and then being
-burned down. On each step of the simula-
-tion, there is a 1 percent chance that a blank
+burned down. On each step of the simulation, there is a 1 percent chance that a blank
 space grows into a tree and a 1 percent chance that a
 tree is struck by lightning and burns. Fires will spread
 to adjacent trees, so a densely packed forest is more
@@ -619,8 +614,7 @@ Emoji Sim at http://ncase.me/simulating/model/.
 In this classic tile-dropping board game
 for two players, you must try to get four of
 your tiles in a row horizontally, vertically,
-or diagonally, while preventing your oppo-
-nent from doing the same. This program is similar
+or diagonally, while preventing your opponent from doing the same. This program is similar
 to Connect Four.
 
 ---
@@ -653,10 +647,8 @@ whether you’re smart or . . . not so smart.
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hackingMinigame/hackingMinigame.py)
 
-In this game, the player must hack a com-
-puter by guessing a seven-letter word used
-as the secret password. The computer’s mem-
-ory banks display the possible words, and the
+In this game, the player must hack a computer by guessing a seven-letter word used
+as the secret password. The computer’s memory banks display the possible words, and the
 player is given hints as to how close each guess was.
 For example, if the secret password is MONITOR but
 the player guessed CONTAIN, they are given the hint
@@ -672,11 +664,9 @@ Fallout series of video games.
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hangmanAndGuillotine/hangmanAndGuillotine.py)
 
 This classic word game has the player guess
-the letters to a secret word. For each incor-
-rect letter, another part of the hangman is
+the letters to a secret word. For each incorrect letter, another part of the hangman is
 drawn. Try to guess the complete word before
-the hangman completes. The secret words in this ver-
-sion are all animals like RABBIT and PIGEON, but
+the hangman completes. The secret words in this version are all animals like RABBIT and PIGEON, but
 you can replace these with your own set of words.
 
 ---
@@ -684,8 +674,7 @@ you can replace these with your own set of words.
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/hexGrid/hexGrid.py)
 
-This short program produces a tessel-
-lated image of a hexagonal grid, similar to
+This short program produces a tessellated image of a hexagonal grid, similar to
 chicken wire. It shows that you don’t need a
 lot of code to make something interesting. A
 slightly more complicated variation of this program is
@@ -747,8 +736,7 @@ tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/langtonsAnt/langtonsAnt.py)
 
-Langton’s Ant is a cellular automata simula-
-tion on a two-dimensional grid, similar to
+Langton’s Ant is a cellular automata simulation on a two-dimensional grid, similar to
 Project 13, “Conway’s Game of Life.” In the
 simulation, an “ant” begins on a square that is
 one of two colors. If the space is the first color, the ant
@@ -769,13 +757,10 @@ Langton%27s_ant.
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/leetSpeak/leetSpeak.py)
 
 There’s no better way to demonstrate your
-mad hacker skills than by replacing let-
-ters in your text with numbers: m4d h4x0r
-5k1llz!!! This word program automatically con-
-verts plain English into leetspeak, the coolest way to
+mad hacker skills than by replacing letters in your text with numbers: m4d h4x0r
+5k1llz!!! This word program automatically converts plain English into leetspeak, the coolest way to
 talk online. Or at least it was in 1993.
-It takes a while to get used to, but with some practice, you’ll eventu-
-ally be able to read leetspeak fluently. For example, 1t +@]<3s 4 w|-|1le +o
+It takes a while to get used to, but with some practice, you’ll eventually be able to read leetspeak fluently. For example, 1t +@]<3s 4 w|-|1le +o
 g37 |_|s3|) 70, b|_|+ y0u (an 3\/3nt|_|/-\lly r3a|) l33t$peak phl|_|3n+ly.
 Leetspeak may be hard to read at first, but the program itself is simple
 and good for beginners. More information about leetspeak can be found
@@ -811,11 +796,9 @@ is even.
 The Magic Fortune Ball can predict the
 future and answer your yes/no questions
 with 100 percent accuracy using the power
-of Python’s random number module. This pro-
-gram is similar to a Magic 8 Ball toy, except you don’t
+of Python’s random number module. This program is similar to a Magic 8 Ball toy, except you don’t
 have to shake it. It also features a function for slowly
-printing text strings with spaces in between each char-
-acter, giving the messages a spooky, mysterious effect.
+printing text strings with spaces in between each character, giving the messages a spooky, mysterious effect.
 Most of the code is dedicated to setting the eerie atmosphere. The
 program itself simply selects a message to display in response to a random
 number.
@@ -830,9 +813,7 @@ years old, making it almost as old as Project
 63, “Royal Game of Ur.” It is a “seed-sowing”
 game in which two players select pockets of
 seeds to spread across the other pockets on the board
-while trying to collect as many in their store as possi-
-ble. There are several variants of this game across dif-
-ferent cultures. The name comes from the Arab word
+while trying to collect as many in their store as possible. There are several variants of this game across different cultures. The name comes from the Arab word
 naqala, meaning “to move.”
 To play, grab the seeds from a pit on your side of the board and place one
 in each subsequent pit, going counterclockwise and skipping your opponent’s
@@ -856,8 +837,7 @@ the IDE you use to write your .py files. Using
 the WASD keys, the player can move up, left, down,
 and right, respectively, to navigate the @ symbol
 toward the exit marked by the X character.
-To make a maze file, open a text editor and create the following pat-
-tern. Don’t type the numbers along the top and left side; they are only there
+To make a maze file, open a text editor and create the following pattern. Don’t type the numbers along the top and left side; they are only there
 for reference:
 123456789
 1#########
@@ -871,8 +851,7 @@ for reference:
 :star: :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mazeRunner3D/mazeRunner3D.py)
 
-This three-dimensional maze runner pro-
-vides the player with a first-person view
+This three-dimensional maze runner provides the player with a first-person view
 from inside a maze. Try to find your way out!
 You can generate maze files by following the
 instructions in Project 44, “Maze Runner 2D,” or by
@@ -886,19 +865,15 @@ downloading maze files from https://invpy.com/mazes/.
 When you roll two six-sided dice, there’s
 a 17 percent chance you’ll roll a 7. That’s
 much better than the odds of rolling a 2: just
-3 percent. That’s because there’s only one com-
-bination of dice rolls that gives you 2 (the one that
-occurs when both dice roll a 1), but many combina-
-tions add up to seven: 1 and 6, 2 and 5, 3 and 4, and
+3 percent. That’s because there’s only one combination of dice rolls that gives you 2 (the one that
+occurs when both dice roll a 1), but many combinations add up to seven: 1 and 6, 2 and 5, 3 and 4, and
 so on.
 But what about when you roll three dice? Or four? Or 1,000? You could
 mathematically calculate the theoretical probabilities, or you can have
-the computer roll a number of dice one million times to empirically fig-
-ure them out. This program takes that latter approach. In this program,
+the computer roll a number of dice one million times to empirically figure them out. This program takes that latter approach. In this program,
 you tell the computer to roll N dice one million times and remember the
 results. It then displays the percentage chance of each sum.
-This program does a massive amount of computation, but the computa-
-tion itself isn’t hard to understand.
+This program does a massive amount of computation, but the computation itself isn’t hard to understand.
 
 ---
 ## Mondrian Art Generator
@@ -906,8 +881,7 @@ tion itself isn’t hard to understand.
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/mondrianArtGenerator/mondrianArtGenerator.py)
 
 Piet Mondrian was a 20th-century Dutch
-painter and one of the founders of neoplas-
-ticism, an abstract art movement. His most
+painter and one of the founders of neoplasticism, an abstract art movement. His most
 iconic paintings relied on blocks of primary
 colors (blue, yellow, red), black, and white. Using a
 minimalist approach, he separated these colors with
@@ -921,8 +895,7 @@ Piet_Mondrian.
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/montyHallProblem/montyHallProblem.py)
 
-The Monty Hall Problem illustrates a sur-
-prising fact of probability. The problem
+The Monty Hall Problem illustrates a surprising fact of probability. The problem
 is loosely based on the old game show Let’s
 Make a Deal and its host, Monty Hall. In the
 Monty Hall Problem, you can pick one of three doors.
@@ -963,8 +936,7 @@ https://en.wikipedia.org/wiki/Monty_Hall_problem.
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/multiplicationTable/multiplicationTable.py)
 
 This program generates a multiplication
-table from 0 × 0 to 12 × 12. While sim-
-ple, it provides a useful demonstration of
+table from 0 × 0 to 12 × 12. While simple, it provides a useful demonstration of
 nested loops.
 
 ---
@@ -1011,8 +983,7 @@ We’re used to counting in the decimal
 numeral system, which uses 10 digits: 0
 through 9. This system likely developed
 because humans counted on their fingers, and
-most people have 10 fingers. But other number sys-
-tems exist. Computers make use of binary, a numeral
+most people have 10 fingers. But other number systems exist. Computers make use of binary, a numeral
 system with only two digits, 0 and 1. Programmers
 also sometimes use hexadecimal, which is a base-16
 numeral system that uses the digits 0 to 9 but also
@@ -1025,8 +996,7 @@ displays a range of numbers in decimal, binary, and hexadecimal.
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/periodicTableOfElements/periodicTableOfElements.py)
 
-The periodic table of the elements orga-
-nizes all known chemical elements into
+The periodic table of the elements organizes all known chemical elements into
 a single table. This program presents this
 table and lets the player access additional
 information about each element, such as its atomic
@@ -1035,6 +1005,7 @@ piled this information from Wikipedia and stored it
 in a file called periodictable.csv that you can download
 from https://inventwithpython.com/periodictable.csv.
 
+---
 ## Pig Latin
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/pigLatin/pigLatin.py)
@@ -1050,17 +1021,16 @@ adds “yay” to the end of it. For example, “elephant”
 becomes “elephantyay” and “umbrella” becomes
 “umbrellayay.”
 
+---
 ## Powerball Lottery
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/powerballLottery/powerballLottery.py)
 
 The Powerball Lottery is an exciting way to
-lose small amounts of money. If you pur-
-chase a $2 ticket, you can pick six numbers:
+lose small amounts of money. If you purchase a $2 ticket, you can pick six numbers:
 five drawn from 1 to 69, and a sixth “Powerball”
 number drawn from 1 to 26. The order of the num-
-bers doesn’t matter. If the lottery selects your six num-
-bers, you win $1.586 billion dollars! Except you won’t
+bers doesn’t matter. If the lottery selects your six numbers, you win $1.586 billion dollars! Except you won’t
 win, because your odds are 1 in 292,201,338. But if you
 spent $200 on 100 tickets, your odds would be . . . 1 in 2,922,013. You won’t
 win that either, but at least you’ll lose 100 times as much money. The more
@@ -1074,13 +1044,13 @@ Fun fact: every set of six numbers is just as likely to win as any other. So
 the next time you want to buy a lottery ticket, pick the numbers 1, 2, 3, 4,
 5, and 6. Those numbers are just as likely to come up as a more complex set.
 
+---
 ## Prime Numbers
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/primeNumbers/primeNumbers.py)
 
 A prime number is a number that is evenly
-divisible only by one and itself. Prime num-
-bers have a variety of practical applications,
+divisible only by one and itself. Prime numbers have a variety of practical applications,
 but no algorithm can predict them; we must
 calculate them one at a time. However, we do know
 that there is an infinite number of prime numbers to
@@ -1091,19 +1061,19 @@ a prime number is that one and the number itself are its only factors.) You
 can find out more about prime numbers from https://en.wikipedia.org/wiki/
 Prime_number.
 
+---
 ## Progress Bar
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/progressBar/progressBar.py)
 
 A progress bar is a visual element that shows
 how much of a task has been completed.
-Progress bars are often used alongside down-
-loading files or software installations. This proj-
-ect creates a getProgressBar() function that returns a
+Progress bars are often used alongside downloading files or software installations. This project creates a getProgressBar() function that returns a
 progress bar string based on the arguments passed to
 it. It simulates a downloading file, but you can reuse
 the progress bar code in your own projects.
 
+---
 ## Rainbow
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rainbow/rainbow.py)
@@ -1131,12 +1101,12 @@ suspense.
 For a variation of this game, see Project 60, “Rock Paper Scissors
 (Always-Win Version).”
 
+---
 ## Rock Paper Scissors (Always Win Version)
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rockPaperScissors2/rockPaperScissors2.py)
 
-This variant of Rock Paper Scissors is iden-
-tical to Project 59, “Rock Paper Scissors,”
+This variant of Rock Paper Scissors is identical to Project 59, “Rock Paper Scissors,”
 except the player will always win. The code
 selecting the computer’s move is set so that it
 always chooses the losing move. You can offer this
@@ -1144,6 +1114,7 @@ game to your friends, who may be excited when they
 win . . . at first. See how long it takes before they catch
 on to the fact that the game is rigged in their favor.
 
+---
 ## Rot13 Cipher
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rot13Cipher/rot13Cipher.py)
@@ -1164,21 +1135,21 @@ wiki/ROT13. If you’d like to learn about ciphers and code breaking more
 generally, you can read my book Cracking Codes with Python (No Starch Press,
 2018; https://nostarch.com/crackingcodes/).
 
+---
 ## Rotating Cube
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rotatingCube/rotatingCube.py)
 
 This project features an animation of a
-3D cube rotating using trigonometric func-
-tions. You can adapt the 3D point rotation
-math and the line() function in your own ani-
-mation programs.
+3D cube rotating using trigonometric functions. You can adapt the 3D point rotation
+math and the line() function in your own animation programs.
 Although the block text characters we’ll use to draw the cube don’t
 look like thin, straight lines, this kind of drawing is called a wireframe model
 because it renders only the edges of an object’s surfaces. Figure 62-1 shows
 the wireframe model for a cube and an icosphere, a rough sphere made of
 triangles.
 
+---
 ## Royal Game of Ur
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/royalGameOfUr/royalGameOfUr.py)
@@ -1187,8 +1158,7 @@ The Royal Game of Ur is a 5,000-year-old
 game from Mesopotamia. Archeologists
 rediscovered the game in the Royal Cemetery
 at Ur, in modern-day southern Iraq, during exca-
-vations between 1922 and 1934. The rules were recon-
-structed from the game board (shown in Figure 63-1)
+vations between 1922 and 1934. The rules were reconstructed from the game board (shown in Figure 63-1)
 and a Babylonian clay tablet, and they’re similar to
 Parcheesi. You’ll need both luck and skill to win.
 
@@ -1207,6 +1177,7 @@ a token lands on the middle flower square, it is safe from being landed on.
 If a token lands on any of the other four flower tiles, the player gets to roll
 again. Our game will represent the tokens with the letters X and O.
 
+---
 ## Seven-Segment Display Module
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sevenSegmentDisplayModule/sevenSegmentDisplayModule.py)
@@ -1229,6 +1200,7 @@ the sevseg.py file so they can use its getSevSegStr() function. You can find
 more information about seven-segment displays and other variations at
 https://en.wikipedia.org/wiki/Seven-segment_display.
 
+---
 ## Shining Carpet
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/shiningCarpet/shiningCarpet.py)
@@ -1238,8 +1210,7 @@ film directed by Stanley Kubrick, takes
 place at the haunted Overlook Hotel. The
 hotel carpet’s hexagonal design became an
 iconic part of this famous movie. The carpet features
-alternating and interlocking hexagons whose mes-
-merizing effect is well-suited for such an unnerving
+alternating and interlocking hexagons whose mesmerizing effect is well-suited for such an unnerving
 film. The short program in this project, similar to
 Project 35, “Hex Grid,” prints this repetitive pattern
 on the screen.
@@ -1247,12 +1218,12 @@ Note that this program uses raw strings, which prefix the opening
 quote with a lowercase r, so that the backslashes in the string aren’t inter-
 preted as escape characters.
 
+---
 ## Simple Substitution Cipher
 
 The Simple Substitution Cipher substitutes
 one letter for another. Since there are 26
-possible substitutions for the letter A, 25 pos-
-sible substitutions for B, 24 for C, and so on,
+possible substitutions for the letter A, 25 possible substitutions for B, 24 for C, and so on,
 the total number of possible keys is 26 × 25 × 24 × 23 ×
 . . . × 1, or 403,291,461,126,605,635,584,000,000 keys!
 That’s far too many keys for even a supercomputer
@@ -1264,16 +1235,16 @@ to learn more about ciphers and code breaking, you can read my book
 Cracking Codes with Python (No Starch Press, 2018; https://nostarch.com/
 crackingcodes/).
 
+---
 ## Sine Message
 
 This program displays a message of the
 user’s choice in a wavy pattern as the text
 scrolls up. It accomplishes this effect with
-math.sin(), which implements the trigonomet-
-ric sine wave function. But even if you don’t under-
-stand the math, this program is rather short and
+math.sin(), which implements the trigonometric sine wave function. But even if you don’t understand the math, this program is rather short and
 easy to copy.
 
+---
 ## Sliding Tile Puzzle
 :star: :star:
 
@@ -1288,6 +1259,7 @@ bled images that form a complete picture once solved.
 More information about sliding tile puzzles can be found at https://
 en.wikipedia.org/wiki/Sliding_puzzle.
 
+---
 ## Snail Race
 
 You won’t be able to handle the fast-paced
@@ -1300,6 +1272,7 @@ eight snails, each with a custom name, can race each
 other, leaving a slime trail in their wake. This program
 is good for beginners.
 
+---
 ## Soroban Japanese Abacus
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sorobanJapaneseAbacus/sorobanJapaneseAbacus.py)
@@ -1307,8 +1280,7 @@ is good for beginners.
 An abacus, also called a counting frame, is a
 calculating tool used in many cultures long
 before electronic calculators were invented.
-Figure 70-1 shows the Japanese form of the aba-
-cus, called a soroban. Each wire represents a place in a
+Figure 70-1 shows the Japanese form of the abacus, called a soroban. Each wire represents a place in a
 positional numeral system, and the beads on the wire
 represent the digit at that place. For example, a soroban
 with two beads moved over on the rightmost wire and
@@ -1332,6 +1304,7 @@ pulling up three earth beads in the tens column represents the number
 80. More information about abacuses and how to use them can be found at
 https://en.wikipedia.org/wiki/Abacus.
 
+---
 ## Sound Mimic
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/soundMimic/soundMimic.py)
@@ -1357,14 +1330,14 @@ program. More information about the playsound module can be found at
 https://pypi.org/project/playsound/. Users on macOS must also install the pyobjc
 module from https://pypi.org/project/pyobjc/ for playsound to work.
 
+---
 ## Spongecase
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/spongeCase/spongeCase.py)
 
 You’ve probably seen the “Mocking
 SpongeBob” meme: a picture of SpongeBob
-SquarePants, with a caption whose text alter-
-nates between upper- and lowercase letters to
+SquarePants, with a caption whose text alternates between upper and lowercase letters to
 indicate sarcasm, like this: uSiNg SpOnGeBoB MeMeS
 dOeS NoT mAkE YoU wItTy. For some randomness,
 the text sometimes doesn’t alternate capitalization.
@@ -1373,12 +1346,12 @@ convert your message into “spongecase.” The program is also set up so that
 other programs can import it as a module with import spongecase and then
 call the spongecase.englishToSpongecase() function.
 
+---
 ## Sudoku Puzzle
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sudokuPuzzle/sudokuPuzzle.py)
 
-Sudoku is a popular puzzle game in news-
-papers and mobile apps. The Sudoku board
+Sudoku is a popular puzzle game in newspapers and mobile apps. The Sudoku board
 is a 9 × 9 grid in which the player must place
 the digits 1 to 9 once, and only once, in each
 row, column, and 3 × 3 subgrid. The game begins
@@ -1386,6 +1359,7 @@ with a few spaces already filled in with digits, called
 givens. A well-formed Sudoku puzzle will have only
 one possible valid solution.
 
+---
 ## Text-To-Speech Talker
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/textToSpeechTalker/textToSpeechTalker.py)
@@ -1394,15 +1368,14 @@ This program demonstrates the use of the
 pyttsx3 third-party module. Any message
 you enter will be spoken out loud by your
 operating system’s text-to-speech capabilities.
-Although computer-generated speech is an incred-
-ibly complex branch of computer science, the pyttsx3
+Although computer-generated speech is an incredibly complex branch of computer science, the pyttsx3
 module provides an easy interface for it, making this
 small program suitable for beginners. Once you’ve
-learned how to use the module, you can add gener-
-ated speech to your own programs.
+learned how to use the module, you can add generated speech to your own programs.
 More information about the pyttsx3 module can be found at https://
 pypi.org/project/pyttsx3/.
 
+---
 ## Three-Card Monte
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/threeCardMonte/threeCardMonte.py)
@@ -1410,12 +1383,9 @@ pypi.org/project/pyttsx3/.
 Three-card monte is a common scam
 played on gullible tourists and other easy
 marks. Three playing cards, one of which is
-the “red lady” Queen of Hearts, are put face-
-down on a cardboard box. The dealer quickly rear-
-ranges the cards and then asks the mark to pick the
+the “red lady” Queen of Hearts, are put facedown on a cardboard box. The dealer quickly rearranges the cards and then asks the mark to pick the
 Queen of Hearts. But the dealer can use all sorts of
-tricks to hide the card or otherwise cheat, guarantee-
-ing that the victim never wins. It’s also common for
+tricks to hide the card or otherwise cheat, guaranteeing that the victim never wins. It’s also common for
 the dealer to have shills in the crowd who secretly work with the dealer but
 pretend to win the game (to make the victim think they too could win)
 or purposefully lose badly (to make the victim think they could do much
@@ -1436,16 +1406,14 @@ Tic-tac-toe is a classic pencil-and-paper
 game played on a 3 × 3 grid. Players take
 turns placing their X or O marks, trying to
 get three in a row. Most games of tic-tac-toe
-end in a tie, but it is possible to outsmart your oppo-
-nent if they’re not careful.
+end in a tie, but it is possible to outsmart your opponent if they’re not careful.
 
 ---
 ## Tower Of Hanoi
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/towerOfHanoi/towerOfHanoi.py)
 
-The Tower of Hanoi is a stack-moving puz-
-zle game that features three poles on which
+The Tower of Hanoi is a stack-moving puzzle game that features three poles on which
 you can stack various-sized disks. The object
 of the game is to move one tower of disks to
 another pole. However, only one disk can be moved
@@ -1462,8 +1430,7 @@ easier version first.)
 
 What does a yellow stone thrown into a blue
 pond become? Do they have a 4th of July in
-England? How can a doctor go 30 days with-
-out sleep? Whatever you think the answers to
+England? How can a doctor go 30 days without sleep? Whatever you think the answers to
 these trick questions are, you’re probably wrong. The
 54 questions in this program have been specifically
 crafted so that their answers are simple, obvious, and
@@ -1496,8 +1463,7 @@ before the entire board fills up.
 
 The Vigenère cipher, misattributed to 19th-
 century cryptographer Blaise de Vigenère
-(others had independently invented it ear-
-lier), was impossible to crack for hundreds of
+(others had independently invented it earlier), was impossible to crack for hundreds of
 years. It is essentially the Caesar cipher, except it makes
 use of a multipart key. The so-called Vigenère key is a
 word, or even a random series of letters. Each letter
