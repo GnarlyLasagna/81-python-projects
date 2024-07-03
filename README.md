@@ -1116,7 +1116,10 @@ the existing text scrolls up, causing it to look like it’s
 moving. This program is good for beginners, and it’s
 similar to Project 15, “Deep Cave.”
 
+---
 ## Rock Paper Scissors
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rockPaperScissors/rockPaperScissors.py)
 
 In this version of the two-player hand game
 also known as Rochambeau or jan-ken-pon,
@@ -1129,6 +1132,8 @@ For a variation of this game, see Project 60, “Rock Paper Scissors
 (Always-Win Version).”
 
 ## Rock Paper Scissors (Always Win Version)
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rockPaperScissors2/rockPaperScissors2.py)
 
 This variant of Rock Paper Scissors is iden-
 tical to Project 59, “Rock Paper Scissors,”
