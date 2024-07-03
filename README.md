@@ -1209,6 +1209,8 @@ again. Our game will represent the tokens with the letters X and O.
 
 ## Seven-Segment Display Module
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sevenSegmentDisplayModule/sevenSegmentDisplayModule.py)
+
 A seven-segment display is a type of LCD
 component used to display numbers in
 pocket calculators, microwave ovens, and
@@ -1228,6 +1230,8 @@ more information about seven-segment displays and other variations at
 https://en.wikipedia.org/wiki/Seven-segment_display.
 
 ## Shining Carpet
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/shiningCarpet/shiningCarpet.py)
 
 The Shining, a 1980 psychological horror
 film directed by Stanley Kubrick, takes
