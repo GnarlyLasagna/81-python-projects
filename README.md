@@ -1333,6 +1333,8 @@ https://en.wikipedia.org/wiki/Abacus.
 
 ## Sound Mimic
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/soundMimic/soundMimic.py)
+
 Similar to the Simon electronic toy, this
 memorization game uses the third-party
 playsound module to play four different
