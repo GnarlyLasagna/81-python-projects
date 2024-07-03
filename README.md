@@ -1382,6 +1382,8 @@ one possible valid solution.
 
 ## Text-To-Speech Talker
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/textToSpeechTalker/textToSpeechTalker.py)
+
 This program demonstrates the use of the
 pyttsx3 third-party module. Any message
 you enter will be spoken out loud by your
