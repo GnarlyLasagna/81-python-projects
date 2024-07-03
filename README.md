@@ -1356,6 +1356,8 @@ module from https://pypi.org/project/pyobjc/ for playsound to work.
 
 ## Spongecase
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/spongeCase/spongeCase.py)
+
 You’ve probably seen the “Mocking
 SpongeBob” meme: a picture of SpongeBob
 SquarePants, with a caption whose text alter-
@@ -1370,6 +1372,7 @@ call the spongecase.englishToSpongecase() function.
 
 ## Sudoku Puzzle
 :star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sudokuPuzzle/sudokuPuzzle.py)
 
 Sudoku is a popular puzzle game in news-
 papers and mobile apps. The Sudoku board
