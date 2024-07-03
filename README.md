@@ -1093,6 +1093,8 @@ Prime_number.
 
 ## Progress Bar
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/progressBar/progressBar.py)
+
 A progress bar is a visual element that shows
 how much of a task has been completed.
 Progress bars are often used alongside down-
@@ -1103,6 +1105,8 @@ it. It simulates a downloading file, but you can reuse
 the progress bar code in your own projects.
 
 ## Rainbow
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rainbow/rainbow.py)
 
 Rainbow is a simple program that shows a
 colorful rainbow traveling back and forth
