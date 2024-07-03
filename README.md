@@ -1426,6 +1426,7 @@ you solve this puzzle. Can you discover it? (Hint: Try
 setting the TOTAL_DISKS variable to 3 or 4 to solve an
 easier version first.)
 
+---
 ## Trick Questions
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/trickQuestions/trickQuestions.py)
@@ -1443,6 +1444,7 @@ Copying the code from this book will spoil the fun, since you’ll see the
 answers, so you might want to download and play this game from https://
 inventwithpython.com/trickquestions.py before looking at the source code.
 
+---
 ## Twenty Fourty-Eight
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/twentyFortyEight/twentyFortyEight.py)
@@ -1458,6 +1460,7 @@ an 8, and so on. The game adds a new 2 to the board
 on each merging. The objective is to reach 2048
 before the entire board fills up.
 
+---
 ## Vigenere Cipher
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/vigenereCipher/vigenereCipher.py)
@@ -1488,6 +1491,7 @@ at https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher. If you’d like to learn
 more about ciphers and code breaking, you can read my book Cracking
 Codes with Python (No Starch Press, 2018; https://nostarch.com/crackingcodes/).
 
+---
 ## Water Bucket Puzzle
 :star: :star:
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/waterBucketPuzzle/waterBucketPuzzle.py)
