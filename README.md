@@ -1402,7 +1402,10 @@ Can you keep up with the “red lady”? For the authentic three-card monte
 experience, you can enable the cheat feature, which causes the player to
 always lose, even if they select the correct card.
 
+---
 ## Tic-Tac-Toe
+
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ticTacToe/ticTacToe.py)
 
 Tic-tac-toe is a classic pencil-and-paper
 game played on a 3 × 3 grid. Players take
@@ -1411,6 +1414,7 @@ get three in a row. Most games of tic-tac-toe
 end in a tie, but it is possible to outsmart your oppo-
 nent if they’re not careful.
 
+---
 ## Tower Of Hanoi
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/towerOfHanoi/towerOfHanoi.py)
