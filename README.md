@@ -1166,6 +1166,7 @@ generally, you can read my book Cracking Codes with Python (No Starch Press,
 
 ## Rotating Cube
 :star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/rotatingCube/rotatingCube.py)
 
 This project features an animation of a
 3D cube rotating using trigonometric func-
