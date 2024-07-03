@@ -1302,6 +1302,7 @@ is good for beginners.
 
 ## Soroban Japanese Abacus
 :star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sorobanJapaneseAbacus/sorobanJapaneseAbacus.py)
 
 An abacus, also called a counting frame, is a
 calculating tool used in many cultures long
