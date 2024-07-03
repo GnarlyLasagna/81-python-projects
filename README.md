@@ -1181,6 +1181,7 @@ triangles.
 
 ## Royal Game of Ur
 :star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/royalGameOfUr/royalGameOfUr.py)
 
 The Royal Game of Ur is a 5,000-year-old
 game from Mesopotamia. Archeologists
