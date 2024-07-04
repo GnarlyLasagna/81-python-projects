@@ -715,8 +715,7 @@ right, and moves forward one space. If the space is the
 second color, the ant switches it to the first color, turns
 90 degrees to the left, and moves forward one space.
 Despite the very simple set of rules, the simulation displays complex emergent behavior. Simulations can feature multiple ants in the same space, causing interesting interactions when they cross paths with each other. Langton’s
-Ant was invented by computer scientist Chris Langton in 1986. More infor-
-mation about Langton’s Ant can be found at https://en.wikipedia.org/wiki/
+Ant was invented by computer scientist Chris Langton in 1986. More information about Langton’s Ant can be found at https://en.wikipedia.org/wiki/
 Langton%27s_ant.
 
 ---
@@ -913,10 +912,8 @@ nested loops.
 undetermined origin known for its length
 and repetitiveness. The lyrics go, “Ninety-
 nine bottles of milk on the wall, ninety-nine
-bottles of milk. Take one down, pass it around, ninety-
-eight bottles of milk on the wall.” As the lyrics repeat,
-the number of bottles falls from ninety-eight to ninety-
-seven, then from ninety-seven to ninety-six, until it
+bottles of milk. Take one down, pass it around, ninety-eight bottles of milk on the wall.” As the lyrics repeat,
+the number of bottles falls from ninety-eight to ninety-seven, then from ninety-seven to ninety-six, until it
 reaches zero: “One bottle of milk on the wall, one
 bottle of milk. Take it down, pass it around, no more bottles of milk
 on the wall!”
