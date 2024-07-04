@@ -48,6 +48,7 @@ Install Python 3 using Homebrew or your fav package manager:
     python3 bagels.py
     ```
 
+
 ---
 ## Table of Contents
 1. [Bagels](#Bagels)
