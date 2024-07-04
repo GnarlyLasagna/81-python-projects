@@ -658,8 +658,7 @@ lot of code to make something interesting. A
 slightly more complicated variation of this program is
 Project 65, “Shining Carpet.”
 Note that this program uses raw strings, which prefix the opening
-quote with a lowercase r so that the backslashes in the string aren’t inter-
-preted as escape characters.
+quote with a lowercase r so that the backslashes in the string aren’t interpreted as escape characters.
 
 ---
 ## Hourglass
@@ -706,8 +705,7 @@ suspects and items, compare their answers with your own exploration notes,
 and determine if they are lying or telling the truth. Some will know who has
 catnapped Zophie (or where she is, or what item is found at the location of
 the kidnapper), but you must determine if you can believe them. You have
-five minutes to find the criminal but will lose if you make three wrong accusa-
-tions. This game is inspired by Homestar Runner’s “Where’s an Egg?” game.
+five minutes to find the criminal but will lose if you make three wrong accusations. This game is inspired by Homestar Runner’s “Where’s an Egg?” game.
 
 ---
 ## Langton's Ant
@@ -722,9 +720,7 @@ switches it to the second color, turns 90 degrees to the
 right, and moves forward one space. If the space is the
 second color, the ant switches it to the first color, turns
 90 degrees to the left, and moves forward one space.
-Despite the very simple set of rules, the simulation displays complex emer-
-gent behavior. Simulations can feature multiple ants in the same space, caus-
-ing interesting interactions when they cross paths with each other. Langton’s
+Despite the very simple set of rules, the simulation displays complex emergent behavior. Simulations can feature multiple ants in the same space, causing interesting interactions when they cross paths with each other. Langton’s
 Ant was invented by computer scientist Chris Langton in 1986. More infor-
 mation about Langton’s Ant can be found at https://en.wikipedia.org/wiki/
 Langton%27s_ant.
@@ -753,8 +749,7 @@ In this push-your-luck game, you roll dice
 to collect stars. The more you roll, the more
 stars you can get, but if you get three skulls
 you lose everything! This quick multiplayer
-game can support as many players as you want, mak-
-ing it ideal for parties.
+game can support as many players as you want, making it ideal for parties.
 On your turn, you pull three random dice from the dice cup and roll
 them. You can roll Stars, Skulls, and Question Marks. If you end your
 turn, you get one point per Star. If you choose to roll again, you keep the
