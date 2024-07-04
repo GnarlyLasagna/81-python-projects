@@ -221,8 +221,7 @@ project/bext/.
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/caesarCipher/caesarCipher.py)
 
-The Caesar cipher is an ancient encryp-
-tion algorithm used by Julius Caesar. It
+The Caesar cipher is an ancient encryption algorithm used by Julius Caesar. It
 encrypts letters by shifting them over by a
 certain number of places in the alphabet. We
 call the length of shift the key. For example, if the
@@ -263,8 +262,7 @@ This program generates printable text
 files of monthly calendars for the month
 and year you enter. Dates and calendars are
 a tricky topic in programming because there
-are so many different rules for determining the num-
-ber of days in a month, which years are leap years,
+are so many different rules for determining the number of days in a month, which years are leap years,
 and which day of the week a particular date falls on.
 Fortunately, Python’s datetime module handles these
 details for you. This program focuses on generating
@@ -293,8 +291,7 @@ are rolled in a cup, and gamblers must guess
 if the sum is even (cho) or odd (han). The
 house takes a small cut of all winnings. The simple
 random number generation and basic math used to
-determine odd or even sums make this project espe-
-cially suitable for beginners. More information about
+determine odd or even sums make this project especially suitable for beginners. More information about
 Cho-han can be found at https://en.wikipedia.org/wiki/
 Cho-han.
 
@@ -333,8 +330,7 @@ number in the sequence:
 
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/conwaysGameOfLife/conwaysGameOfLife.py)
 
-Conway’s Game of Life is a cellular autom-
-ata simulation that follows simple rules to
+Conway’s Game of Life is a cellular automata simulation that follows simple rules to
 create interesting patterns. It was invented
 by mathematician John Conway in 1970 and
 popularized by Martin Gardner’s “Mathematical
@@ -349,8 +345,7 @@ simulation.
 the simulation.
 • Any other cell dies or stays dead in the next step of the simulation.
 
-The living or dead state of the cells in the next step of the simula-
-tion depends entirely on their current state. The cells don’t “remember”
+The living or dead state of the cells in the next step of the simulation depends entirely on their current state. The cells don’t “remember”
 any older states. There is a large body of research regarding the patterns
 that these simple rules produce. Tragically, Professor Conway passed
 away of complications from COVID-19 in April 2020. More information
@@ -382,11 +377,8 @@ This program is similar to Project 19, “Digital Clock.”
 
 This program is an animation of a deep
 cave that descends forever into the earth.
-Although short, this program takes advan-
-tage of the scrolling nature of the computer
-screen to produce an interesting and unending visu-
-alization, proof that it doesn’t take much code to pro-
-duce something fun to watch. This program is similar
+Although short, this program takes advantage of the scrolling nature of the computer
+screen to produce an interesting and unending visualization, proof that it doesn’t take much code to produce something fun to watch. This program is similar
 to Project 58, “Rainbow.”
 
 
@@ -396,8 +388,7 @@ to Project 58, “Rainbow.”
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/diamonds/diamonds.py)
 
 This program features a small algorithm
-for drawing ASCII-art diamonds of vari-
-ous sizes. It contains functions for drawing
+for drawing ASCII-art diamonds of various sizes. It contains functions for drawing
 either an outline or filled-in-style diamond of
 the size you dictate. These functions are good practice
 for a beginner; try to understand the pattern behind
@@ -413,8 +404,7 @@ dice whose sides you must add up as quickly
 as possible. But this program operates as
 more than just automated flash cards; it draws
 the faces of the dice to random places on the screen.
-The ASCII-art aspect adds a fun twist while you prac-
-tice arithmetic.
+The ASCII-art aspect adds a fun twist while you practice arithmetic.
 
 ---
 ## Dice Roller
@@ -424,13 +414,10 @@ tice arithmetic.
 Dungeons & Dragons and other tabletop
 role-playing games use special dice that
 can have 4, 8, 10, 12, or even 20 sides. These
-games also have a specific notation for indicat-
-ing which dice to roll. For example, 3d6 means roll-
-ing three six-sided dice, while 1d10+2 means rolling
+games also have a specific notation for indicating which dice to roll. For example, 3d6 means rolling three six-sided dice, while 1d10+2 means rolling
 one ten-sided die and adding a two-point bonus to
 the roll. This program simulates this dice rolling, in
-case you forgot to bring your own. It can also simu-
-late rolling dice that don’t physically exist, such as a
+case you forgot to bring your own. It can also simulate rolling dice that don’t physically exist, such as a
 38-sided die.
 
 ---
@@ -439,10 +426,8 @@ late rolling dice that don’t physically exist, such as a
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/digitalClock/digitalClock.py)
 
 This program displays a digital clock
-with the current time. Rather than ren-
-der numeric characters directly, the
-sevseg.py module from Project 64, “Seven-
-Segment Display Module,” generates the drawings
+with the current time. Rather than render numeric characters directly, the
+sevseg.py module from Project 64, “Seven-Segment Display Module,” generates the drawings
 for each digit. This program is similar to Project 14,
 “Countdown.”
 
