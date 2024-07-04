@@ -1199,6 +1199,8 @@ preted as escape characters.
 ---
 ## Simple Substitution Cipher
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/simpleSubstitutionCipher/simpleSubstitutionCipher.py)
+
 The Simple Substitution Cipher substitutes
 one letter for another. Since there are 26
 possible substitutions for the letter A, 25 possible substitutions for B, 24 for C, and so on,
