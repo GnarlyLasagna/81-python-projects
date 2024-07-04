@@ -162,8 +162,7 @@ of two people having a matching birthday. But even
 in a group as small as 23 people, there’s a 50 percent
 chance of a matching birthday. This program per-
 forms several probability experiments to determine
-the percentages for groups of different sizes. We call these types of experi-
-ments, in which we conduct multiple random trials to understand the
+the percentages for groups of different sizes. We call these types of experiments, in which we conduct multiple random trials to understand the
 likely outcomes, Monte Carlo experiments.
 
 ---
@@ -211,8 +210,7 @@ that bounced off the edges of the screen. This pro-
 gram simulates this colorful DVD logo by making it
 change direction each time it hits an edge. We’ll also
 keep track of how many times a logo hits a corner of
-the screen. This creates an interesting visual anima-
-tion to look at, especially for the magical moment
+the screen. This creates an interesting visual animation to look at, especially for the magical moment
 when a logo lines up perfectly with a corner.
 
 You can’t run this program from your integrated development environ-
