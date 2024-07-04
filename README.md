@@ -336,8 +336,7 @@ by mathematician John Conway in 1970 and
 popularized by Martin Gardner’s “Mathematical
 Games” column in Scientific American. Today, it’s a
 favorite among programmers and computer scientists,
-though it’s more an interesting visualization than a true “game.” The two-
-dimensional board has a grid of “cells,” each of which follows three simple
+though it’s more an interesting visualization than a true “game.” The two dimensional board has a grid of “cells,” each of which follows three simple
 rules:
 • Living cells with two or three neighbors stay alive in the next step of the
 simulation.
@@ -439,8 +438,7 @@ for each digit. This program is similar to Project 14,
 This program mimics the “digital stream”
 visualization from the science fiction movie
 The Matrix. Random beads of binary “rain”
-stream up from the bottom of the screen, cre-
-ating a cool, hacker-like visualization. (Unfortunately,
+stream up from the bottom of the screen, creating a cool, hacker-like visualization. (Unfortunately,
 due to the way text moves as the screen scrolls down,
 it’s not possible to make the streams fall downward
 without using a module such as bext.)
@@ -452,8 +450,7 @@ without using a module such as bext.)
 
 Deoxyribonucleic acid is a tiny molecule
 that exists in every cell of our bodies and
-contains the blueprint for how our bod-
-ies grow. It looks like a double helix (a sort of
+contains the blueprint for how our bodies grow. It looks like a double helix (a sort of
 twisted ladder) of pairs of nucleotide molecules:
 ­ guanine, cytosine, adenine, and thymine. These are
 represented by the letters G, C, A, and T. DNA is a
@@ -467,8 +464,7 @@ This program is a simple animation of DNA.
 [link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/ducklings/ducklings.py)
 
 This program creates a scrolling field of
-ducklings. Each duckling has slight varia-
-tions: they can face left or right and have
+ducklings. Each duckling has slight variations: they can face left or right and have
 two different body sizes, four types of eyes, two
 types of mouths, and three positions for their wings.
 This gives us 96 different possible variations, which
