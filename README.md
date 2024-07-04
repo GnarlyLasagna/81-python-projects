@@ -1229,6 +1229,7 @@ easy to copy.
 ---
 ## Sliding Tile Puzzle
 :star: :star:
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/slidingTilePuzzle/slidingTilePuzzle.py)
 
 This classic puzzle relies on a 4 × 4 board
 with 15 numbered tiles and one free space.
