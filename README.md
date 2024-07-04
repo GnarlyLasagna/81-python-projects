@@ -897,14 +897,12 @@ a 1,000 chance), the host specifically chose the car door to leave closed. The
 choice of which doors to open isn’t random; the host knows to leave the car
 door closed. It’s almost certain that you didn’t pick the car door to begin
 with, so you should switch to the other door.
-Another way to think of it is that you have 1,000 boxes and one box con-
-tains a prize. You guess which box the prize is in and the host puts it in your
+Another way to think of it is that you have 1,000 boxes and one box contains a prize. You guess which box the prize is in and the host puts it in your
 hands. Do you think the prize is in your box or one of the 999 other boxes?
 You don’t need the host to open 998 of the 999 boxes that don’t contain a
 prize; the amount of choice is the same as with the 1,000 doors. The odds
 that you guessed correctly in the beginning are 1 in 1,000, while the odds
-that you did not (and that the prize is in one of the other boxes) is a near cer-
-tain 999 in 1,000.
+that you did not (and that the prize is in one of the other boxes) is a near certain 999 in 1,000.
 More information about the Monty Hall Problem can be found at
 https://en.wikipedia.org/wiki/Monty_Hall_problem.
 
@@ -978,8 +976,7 @@ The periodic table of the elements organizes all known chemical elements into
 a single table. This program presents this
 table and lets the player access additional
 information about each element, such as its atomic
-number, symbol, melting point, and so on. I com-
-piled this information from Wikipedia and stored it
+number, symbol, melting point, and so on. I compiled this information from Wikipedia and stored it
 in a file called periodictable.csv that you can download
 from https://inventwithpython.com/periodictable.csv.
 
