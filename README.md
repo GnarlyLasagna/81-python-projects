@@ -160,8 +160,7 @@ same birthday even in a small group of people.
 In a group of 70 people, there’s a 99.9 percent chance
 of two people having a matching birthday. But even
 in a group as small as 23 people, there’s a 50 percent
-chance of a matching birthday. This program per-
-forms several probability experiments to determine
+chance of a matching birthday. This program performs several probability experiments to determine
 the percentages for groups of different sizes. We call these types of experiments, in which we conduct multiple random trials to understand the
 likely outcomes, Monte Carlo experiments.
 
@@ -206,15 +205,13 @@ If you are of a certain age, you’ll remember
 those ancient technological devices called
 DVD players. When not playing DVDs, they
 would display a diagonally traveling DVD logo
-that bounced off the edges of the screen. This pro-
-gram simulates this colorful DVD logo by making it
+that bounced off the edges of the screen. This program simulates this colorful DVD logo by making it
 change direction each time it hits an edge. We’ll also
 keep track of how many times a logo hits a corner of
 the screen. This creates an interesting visual animation to look at, especially for the magical moment
 when a logo lines up perfectly with a corner.
 
-You can’t run this program from your integrated development environ-
-ment (IDE) or editor because it uses the bext module. Therefore, it must be
+You can’t run this program from your integrated development environment (IDE) or editor because it uses the bext module. Therefore, it must be
 run from the Command Prompt or Terminal in order to display correctly.
 You can find more information about the bext module at https://pypi.org/
 project/bext/.
@@ -254,9 +251,7 @@ nostarch.com/crackingcodes/).
 This program can hack messages encrypted
 with the Caesar cipher from Project 6, even
 if you don’t know the key. There are only 26
-possible keys for the Caesar cipher, so a com-
-puter can easily try all possible decryptions and dis-
-play the results to the user. In cryptography, we call
+possible keys for the Caesar cipher, so a computer can easily try all possible decryptions and display the results to the user. In cryptography, we call
 this technique a brute-force attack.
 
 ---
