@@ -1218,6 +1218,8 @@ crackingcodes/).
 ---
 ## Sine Message
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/sineMessage/sineMessage.py)
+
 This program displays a message of the
 user’s choice in a wavy pattern as the text
 scrolls up. It accomplishes this effect with
