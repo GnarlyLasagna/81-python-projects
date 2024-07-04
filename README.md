@@ -1099,10 +1099,8 @@ on to the fact that the game is rigged in their favor.
 
 The ROT13 cipher, one of the simplest
 encryption algorithms, stands for “rotate
-13 spaces.” The cypher represents the let-
-ters A to Z as the numbers 0 to 25 in such a way
-that the encrypted letter is 13 spaces from the plain-
-text letter: A becomes N, B becomes O, and so on.
+13 spaces.” The cypher represents the letters A to Z as the numbers 0 to 25 in such a way
+that the encrypted letter is 13 spaces from the plaintext letter: A becomes N, B becomes O, and so on.
 The encryption process is identical to the decryption
 process, making it trivial to program. However, the
 encryption is also trivial to break. Because of this,
