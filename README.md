@@ -1245,6 +1245,8 @@ en.wikipedia.org/wiki/Sliding_puzzle.
 ---
 ## Snail Race
 
+[link to code](https://github.com/GnarlyLasagna/81-python-projects/blob/main/snailRace/snailRace.py)
+
 You won’t be able to handle the fast-paced
 excitement of these racing . . . snails. But
 what they lack in speed they make up for in
